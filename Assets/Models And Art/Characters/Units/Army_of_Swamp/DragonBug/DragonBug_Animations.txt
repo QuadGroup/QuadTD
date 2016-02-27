@@ -1,0 +1,12 @@
+Stand: 	000-045
+Roar: 	046-136
+Walk:	137-157
+Attack1: 	158-188
+Attack2: 	189-219
+Attack3: 	220-250
+Hit1:	251-271
+Hit2:	272-292
+Death:	293-360
+
+Triangles: 6786
+Bones: 36

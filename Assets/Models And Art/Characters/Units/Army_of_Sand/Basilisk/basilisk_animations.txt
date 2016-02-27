@@ -1,0 +1,14 @@
+Move 	000-030
+Stand	060-095
+Stand2	097-132
+Idle	134-284
+Roar	286-376
+Attack1	378-408
+Attack2	410-440
+Bite	442-472
+Whip tail	474-519
+Magic	521-581
+Hit1	583-613
+Hit2	615-645
+Death1	647-686
+Death2	687-717

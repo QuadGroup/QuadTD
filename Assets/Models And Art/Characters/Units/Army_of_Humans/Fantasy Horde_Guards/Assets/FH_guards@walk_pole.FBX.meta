@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: ad741cc6c59e48d479aae4c579fd80a9
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: FH_Guard_halberd
+    100002: //RootNode
+    100004: FH_guards_01
+    100006: GuardsHead
+    100008: GuardsLCalf
+    100010: GuardsLCollarbone
+    100012: GuardsLDigit11
+    100014: GuardsLDigit11 1
+    100016: GuardsLDigit21
+    100018: GuardsLDigit22
+    100020: GuardsLFoot
+    100022: GuardsLForearm
+    100024: GuardsLPalm
+    100026: GuardsLThigh
+    100028: GuardsLUpperarm
+    100030: Guardsmouth
+    100032: GuardsNeck
+    100034: GuardsPelvis
+    100036: GuardsRCalf
+    100038: GuardsRCollarbone
+    100040: GuardsRDigit11
+    100042: GuardsRDigit11 1
+    100044: GuardsRDigit21
+    100046: GuardsRDigit22
+    100048: GuardsRFoot
+    100050: GuardsRForearm
+    100052: GuardsRibcage
+    100054: GuardsRPalm
+    100056: GuardsRThigh
+    100058: GuardsRUpperarm
+    100060: GuardsSpine1
+    100062: GuardsSpine2
+    100064: GuardsSpine3
+    100066: GuardsSword
+    100068: weapon
+    100070: weapon_polearm
+    400000: FH_Guard_halberd
+    400002: //RootNode
+    400004: FH_guards_01
+    400006: GuardsHead
+    400008: GuardsLCalf
+    400010: GuardsLCollarbone
+    400012: GuardsLDigit11
+    400014: GuardsLDigit11 1
+    400016: GuardsLDigit21
+    400018: GuardsLDigit22
+    400020: GuardsLFoot
+    400022: GuardsLForearm
+    400024: GuardsLPalm
+    400026: GuardsLThigh
+    400028: GuardsLUpperarm
+    400030: Guardsmouth
+    400032: GuardsNeck
+    400034: GuardsPelvis
+    400036: GuardsRCalf
+    400038: GuardsRCollarbone
+    400040: GuardsRDigit11
+    400042: GuardsRDigit11 1
+    400044: GuardsRDigit21
+    400046: GuardsRDigit22
+    400048: GuardsRFoot
+    400050: GuardsRForearm
+    400052: GuardsRibcage
+    400054: GuardsRPalm
+    400056: GuardsRThigh
+    400058: GuardsRUpperarm
+    400060: GuardsSpine1
+    400062: GuardsSpine2
+    400064: GuardsSpine3
+    400066: GuardsSword
+    400068: weapon
+    400070: weapon_polearm
+    2300000: FH_Guard_halberd
+    3300000: FH_Guard_halberd
+    4300000: FH_Guard_halberd
+    4300002: FH_guards_01
+    7400000: walk pole
+    11100000: //RootNode
+    13700000: FH_guards_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk pole
+      takeName: 
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: GuardsPelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsSpine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsSpine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLDigit11
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRDigit11
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Guardsmouth
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRDigit21
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRDigit22
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsRDigit11 1
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLDigit11 1
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLDigit21
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: GuardsLDigit22
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: FH_guards(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FH_guards_01
+      position: {x: 0, y: 0, z: -3.88088708e-08}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FH_guards_02
+      position: {x: 0, y: 0, z: -3.88088708e-08}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: FH_guards_03
+      position: {x: 0, y: 0, z: -3.88088708e-08}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GuardsPelvis
+      position: {x: 7.30886498e-08, y: .94120723, z: -.112939753}
+      rotation: {x: .499122679, y: -.500867248, z: -.499131143, w: .50087589}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: GuardsSword
+      position: {x: -.0300332643, y: .149383023, z: -.19612366}
+      rotation: {x: -1.78037794e-07, y: 1.65416182e-07, z: .851057529, w: .525072455}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: FH_Guard_quiver
+      position: {x: -.715060234, y: -.678105056, z: .187603265}
+      rotation: {x: -.234048277, y: .667108357, z: .304454118, w: .638353765}
+      scale: {x: .999999225, y: 1.00000024, z: 1.0000006}
+      transformModified: 1
+    - name: FH_Guard_sword_scabbard
+      position: {x: -7.62939436e-08, y: 0, z: -7.62939436e-08}
+      rotation: {x: 2.15953411e-09, y: -9.63644951e-08, z: -1.49011594e-08, w: 1}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999762}
+      transformModified: 1
+    - name: GuardsSpine1
+      position: {x: -.069777146, y: -.00533867814, z: -1.32499549e-08}
+      rotation: {x: 5.53999158e-09, y: -2.30521113e-08, z: -.149445385, w: .988770008}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: GuardsSpine2
+      position: {x: -.204732284, y: 0, z: 1.45519149e-13}
+      rotation: {x: -7.77609266e-09, y: 3.82365002e-08, z: .166288853, w: .98607713}
+      scale: {x: 1.00000048, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: GuardsSpine3
+      position: {x: -.174404681, y: 0, z: 0}
+      rotation: {x: -2.08831086e-09, y: -1.37302685e-08, z: .0757012367, w: .997130573}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: GuardsRibcage
+      position: {x: -.187419429, y: 0, z: 1.45519149e-13}
+      rotation: {x: 2.91762747e-09, y: 1.73420407e-08, z: -.0944348127, w: .995531082}
+      scale: {x: .999998987, y: .999998868, z: .999999881}
+      transformModified: 1
+    - name: GuardsLCollarbone
+      position: {x: .0210118107, y: .122867547, z: .0561438948}
+      rotation: {x: .106279597, y: .710569084, z: .262394845, w: .644162357}
+      scale: {x: 1.00000012, y: 1, z: .999999762}
+      transformModified: 1
+    - name: GuardsLUpperarm
+      position: {x: -.175910443, y: 3.81469718e-08, z: -1.52587887e-07}
+      rotation: {x: .0843742639, y: -.0321185291, z: -.220903456, w: .971108139}
+      scale: {x: 1, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: GuardsLForearm
+      position: {x: -.267005146, y: -4.76837148e-09, z: 1.52587887e-07}
+      rotation: {x: .0821778625, y: .0242791325, z: -.035559006, w: .995687127}
+      scale: {x: .999999881, y: 1.00000107, z: .999999225}
+      transformModified: 1
+    - name: GuardsLPalm
+      position: {x: -.21931003, y: 0, z: -1.52587887e-07}
+      rotation: {x: -.760618687, y: .0493034311, z: .0364551507, w: .64629668}
+      scale: {x: .999999404, y: .999999106, z: 1.00000131}
+      transformModified: 1
+    - name: FH_Guard_shield_01
+      position: {x: -.185585633, y: .0181481931, z: .00809219386}
+      rotation: {x: -.0469291918, y: -.0874427408, z: .976693809, w: -.190317199}
+      scale: {x: 1.00000048, y: .999999583, z: 1.00000095}
+      transformModified: 1
+    - name: FH_Guard_shield_02
+      position: {x: -.185585633, y: .0181481931, z: .00809219386}
+      rotation: {x: -.0469291918, y: -.0874427408, z: .976693809, w: -.190317199}
+      scale: {x: 1.00000048, y: .999999583, z: 1.00000095}
+      transformModified: 1
+    - name: FH_Guard_shield_03
+      position: {x: -.190944135, y: .0988510102, z: .00902481563}
+      rotation: {x: -.0469298027, y: -.0874425545, z: .976693809, w: -.190317109}
+      scale: {x: .999999821, y: 1.00000048, z: 1.00000095}
+      transformModified: 1
+    - name: GuardsLDigit11 1
+      position: {x: -.0903006718, y: -.0327378847, z: .0571114719}
+      rotation: {x: .53747344, y: .37274155, z: .052852571, w: .754581094}
+      scale: {x: 1.00000238, y: .999996603, z: 1.00000095}
+      transformModified: 1
+    - name: GuardsLDigit21
+      position: {x: -.151624516, y: .000149028376, z: -.005787367}
+      rotation: {x: -.134123549, y: -.0294188969, z: .0312460046, w: .990034938}
+      scale: {x: .999999642, y: 1.0000025, z: .999997973}
+      transformModified: 1
+    - name: GuardsLDigit22
+      position: {x: -.0673612207, y: 0, z: -3.81469718e-08}
+      rotation: {x: 2.2542153e-08, y: -3.31915331e-08, z: .214413136, w: .976743042}
+      scale: {x: .999999166, y: .999998033, z: 1.00000286}
+      transformModified: 1
+    - name: GuardsNeck
+      position: {x: -.0210203547, y: .0515510216, z: -2.05369712e-08}
+      rotation: {x: -8.15859741e-11, y: 1.62660143e-08, z: .0111812679, w: .999937534}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: GuardsHead
+      position: {x: -.114150845, y: 2.38418574e-09, z: 1.45519149e-13}
+      rotation: {x: 2.42548537e-10, y: -5.39115197e-09, z: -.011181267, w: .999937534}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: helmet_01
+      position: {x: 1.7002672, y: .0515989661, z: 1.04904174e-07}
+      rotation: {x: .707107067, y: 2.41932526e-07, z: -.707106531, w: 2.41932725e-07}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: helmet_02
+      position: {x: 1.7002672, y: .0515989661, z: 1.04904174e-07}
+      rotation: {x: .707107067, y: 2.41932526e-07, z: -.707106531, w: 2.41932725e-07}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: helmet_03
+      position: {x: 1.7002672, y: .0515989661, z: 1.04904174e-07}
+      rotation: {x: .707107067, y: 2.41932526e-07, z: -.707106531, w: 2.41932725e-07}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: helmet_04
+      position: {x: 1.7002672, y: .0515989661, z: 1.04904174e-07}
+      rotation: {x: .707107067, y: 2.41932526e-07, z: -.707106531, w: 2.41932725e-07}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: helmet_05
+      position: {x: 1.7002672, y: .0515989661, z: 1.04904174e-07}
+      rotation: {x: .707107067, y: 2.41932526e-07, z: -.707106531, w: 2.41932725e-07}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Guardsmouth
+      position: {x: .0130801387, y: .0445654243, z: -7.5086426e-09}
+      rotation: {x: 7.12637076e-14, y: -1.22371873e-07, z: -.810432792, w: .585831642}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: GuardsRCollarbone
+      position: {x: .0210118107, y: .122867525, z: -.056143906}
+      rotation: {x: -.106279619, y: -.710569203, z: .262394845, w: .644162297}
+      scale: {x: 1.00000024, y: 1, z: .999999762}
+      transformModified: 1
+    - name: GuardsRUpperarm
+      position: {x: -.175910443, y: 0, z: -1.52587887e-07}
+      rotation: {x: -.0843642205, y: .032114841, z: -.220907807, w: .971108139}
+      scale: {x: 1, y: 1.00000036, z: .999999344}
+      transformModified: 1
+    - name: GuardsRForearm
+      position: {x: -.267005146, y: 4.76837148e-09, z: 1.52587887e-07}
+      rotation: {x: -.0821771249, y: -.0242770091, z: -.0355599858, w: .995687246}
+      scale: {x: .99999994, y: 1.00000072, z: .999998868}
+      transformModified: 1
+    - name: GuardsRPalm
+      position: {x: -.219310105, y: 0, z: 0}
+      rotation: {x: .760618687, y: -.0493034758, z: .0364552066, w: .64629668}
+      scale: {x: .999999821, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: weapon
+      position: {x: -.130039901, y: -.0279850755, z: -.0846697763}
+      rotation: {x: .637068212, y: -.37834397, z: .428899318, w: .516764402}
+      scale: {x: .999999583, y: 1.00000083, z: 1.00000012}
+      transformModified: 1
+    - name: FH_Guard_axe
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 4.47034871e-08, y: -1.5832482e-08, z: 3.16649675e-08, w: 1}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: FH_Guard_club
+      position: {x: -0, y: 3.81469718e-08, z: 0}
+      rotation: {x: 1.49012074e-08, y: -1.4901147e-07, z: 2.45868932e-07, w: 1}
+      scale: {x: 1.00000095, y: .999999404, z: .999999642}
+      transformModified: 1
+    - name: FH_Guard_crossbow
+      position: {x: -0, y: 3.81469718e-08, z: 0}
+      rotation: {x: 4.47034978e-07, y: 2.89641093e-07, z: -4.38187357e-07, w: 1}
+      scale: {x: 1.00000024, y: .999999881, z: 1}
+      transformModified: 1
+    - name: FH_Guard_hammer
+      position: {x: -0, y: 3.81469718e-08, z: 0}
+      rotation: {x: 1.1920929e-07, y: 8.84756446e-08, z: 6.98490865e-09, w: 1}
+      scale: {x: 1.00000024, y: 1, z: .999999881}
+      transformModified: 1
+    - name: FH_Guard_sword
+      position: {x: -1.14440915e-07, y: -7.62939436e-08, z: 0}
+      rotation: {x: 4.47034871e-08, y: -2.30967942e-07, z: -1.3969732e-09, w: 1}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: weapon_polearm
+      position: {x: -.110491864, y: -.122684479, z: .31064871}
+      rotation: {x: .598397315, y: -.520893514, z: .438194454, w: .422582775}
+      scale: {x: 1.00000107, y: 1.00000012, z: .999999583}
+      transformModified: 1
+    - name: FH_Guard_halberd
+      position: {x: 1.90734852e-07, y: -4.19616697e-07, z: -3.05175774e-07}
+      rotation: {x: -1.93715266e-07, y: -2.83122034e-07, z: -4.06056756e-07, w: 1}
+      scale: {x: .999999821, y: .999999642, z: .99999994}
+      transformModified: 1
+    - name: FH_Guard_spear
+      position: {x: 2.6702881e-07, y: -3.05175774e-07, z: 0}
+      rotation: {x: 2.68220958e-07, y: -1.49011772e-08, z: -3.35276233e-08, w: 1}
+      scale: {x: .999999583, y: .999999702, z: 1}
+      transformModified: 1
+    - name: GuardsRDigit21
+      position: {x: -.15162845, y: .000151211396, z: .00579347229}
+      rotation: {x: .122337259, y: .0697077736, z: .0439703576, w: .9890607}
+      scale: {x: .999999702, y: 1.00000203, z: .999997377}
+      transformModified: 1
+    - name: GuardsRDigit22
+      position: {x: -.0673614517, y: 0, z: 0}
+      rotation: {x: 6.78035832e-08, y: -3.08837791e-08, z: .2144133, w: .976743042}
+      scale: {x: .999999464, y: .999997675, z: 1.00000262}
+      transformModified: 1
+    - name: GuardsRDigit11 1
+      position: {x: -.0903009772, y: -.0327378847, z: -.0571114197}
+      rotation: {x: -.537473261, y: -.37274164, z: .0528523922, w: .754581213}
+      scale: {x: 1.00000238, y: .999997556, z: .999999166}
+      transformModified: 1
+    - name: GuardsRThigh
+      position: {x: -.0262861624, y: .071670413, z: -.0944658071}
+      rotation: {x: .00875999499, y: .999028623, z: -.00363442767, w: -.0430341959}
+      scale: {x: 1, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: GuardsRCalf
+      position: {x: -.454030842, y: 8.10623177e-08, z: -1.90734859e-08}
+      rotation: {x: -.000703244528, y: .00136415777, z: .0743629336, w: .997230053}
+      scale: {x: 1.00000024, y: .999999821, z: 1.00000048}
+      transformModified: 1
+    - name: GuardsRFoot
+      position: {x: -.481370568, y: 0, z: 1.90734859e-08}
+      rotation: {x: .0770217776, y: .00289977086, z: -.721820116, w: .687775373}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: GuardsRDigit11
+      position: {x: -.227537766, y: .0157412272, z: -2.53677354e-06}
+      rotation: {x: -9.41401322e-06, y: .000171339401, z: -.0543981977, w: .998519301}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: GuardsLThigh
+      position: {x: -.0262861624, y: .071670413, z: .0944658071}
+      rotation: {x: .0087609021, y: .999022424, z: .00362204434, w: .0431785844}
+      scale: {x: .999999881, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: GuardsLCalf
+      position: {x: -.454030633, y: 8.10623177e-08, z: 1.90734859e-08}
+      rotation: {x: .000685936015, y: -.00113182236, z: .0743855461, w: .997228682}
+      scale: {x: 1.00000048, y: .999999404, z: 1}
+      transformModified: 1
+    - name: GuardsLFoot
+      position: {x: -.481370568, y: 0, z: -1.90734859e-08}
+      rotation: {x: -.0772083551, y: -.00318172807, z: -.721704721, w: .687874317}
+      scale: {x: 1.00000083, y: .999999225, z: 1}
+      transformModified: 1
+    - name: GuardsLDigit11
+      position: {x: -.227537766, y: .0157412402, z: 2.555847e-06}
+      rotation: {x: -9.19926333e-06, y: .000165495629, z: -.0545583144, w: .998510599}
+      scale: {x: .99999994, y: .999999702, z: .999999762}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 859acb4fd8c817a43887cf6ad259bf62,
+    type: 3}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

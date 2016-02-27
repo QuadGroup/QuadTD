@@ -1,0 +1,2569 @@
+fileFormatVersion: 2
+guid: eb26af632f9614a4daed75a2c128cade
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone005
+    100002: Bone005(mirrored)
+    100004: Bone006
+    100006: Bone006(mirrored)
+    100008: Bone007
+    100010: Bone007(mirrored)
+    100012: Bone008
+    100014: Bone008(mirrored)
+    100016: Bone009
+    100018: Bone009(mirrored)
+    100020: Bone010
+    100022: Bone010(mirrored)
+    100024: Bone011
+    100026: Bone011(mirrored)
+    100028: Bone012
+    100030: Bone012(mirrored)
+    100032: Bone013
+    100034: Bone013(mirrored)
+    100036: Bone014
+    100038: Bone014(mirrored)
+    100040: Bone015
+    100042: Bone015(mirrored)
+    100044: Bone016
+    100046: Bone016(mirrored)
+    100048: Bone017
+    100050: Bone017(mirrored)
+    100052: Bone018
+    100054: Bone018(mirrored)
+    100056: Bone019
+    100058: Bone019(mirrored)
+    100060: Bone020
+    100062: Bone020(mirrored)
+    100064: Bone021
+    100066: Bone021(mirrored)
+    100068: Dummy001
+    100070: Dummy002
+    100072: Dummy003
+    100074: Dummy004
+    100076: Dummy005
+    100078: Dummy006
+    100080: Dummy007
+    100082: Dummy008
+    100084: Dummy009
+    100086: Dummy010
+    100088: Dummy011
+    100090: Dummy012
+    100092: IK Chain001
+    100094: IK Chain002
+    100096: IK Chain003
+    100098: IK Chain004
+    100100: IK Chain005
+    100102: IK Chain006
+    100104: IK Chain007
+    100106: IK Chain008
+    100108: IK Chain009
+    100110: IK Chain010
+    100112: jaw_down_01_
+    100114: jaw_down_02_
+    100116: jaw_down_03_
+    100118: jaw_down_04_
+    100120: jaw_up_01_
+    100122: jaw_up_02_
+    100124: mountain_dragon
+    100126: //RootNode
+    100128: mountain_dragon_
+    100130: mountain_dragon_ Head
+    100132: mountain_dragon_ HeadNub
+    100134: mountain_dragon_ L Calf
+    100136: mountain_dragon_ L Clavicle
+    100138: mountain_dragon_ L Finger0
+    100140: mountain_dragon_ L Finger01
+    100142: mountain_dragon_ L Finger02
+    100144: mountain_dragon_ L Finger0Nub
+    100146: mountain_dragon_ L Finger1
+    100148: mountain_dragon_ L Finger11
+    100150: mountain_dragon_ L Finger12
+    100152: mountain_dragon_ L Finger1Nub
+    100154: mountain_dragon_ L Finger2
+    100156: mountain_dragon_ L Finger21
+    100158: mountain_dragon_ L Finger22
+    100160: mountain_dragon_ L Finger2Nub
+    100162: mountain_dragon_ L Finger3
+    100164: mountain_dragon_ L Finger31
+    100166: mountain_dragon_ L Finger32
+    100168: mountain_dragon_ L Finger3Nub
+    100170: mountain_dragon_ L Foot
+    100172: mountain_dragon_ L Forearm
+    100174: mountain_dragon_ L Hand
+    100176: mountain_dragon_ L HorseLink
+    100178: mountain_dragon_ L Thigh
+    100180: mountain_dragon_ L Toe0
+    100182: mountain_dragon_ L Toe01
+    100184: mountain_dragon_ L Toe02
+    100186: mountain_dragon_ L Toe0Nub
+    100188: mountain_dragon_ L Toe1
+    100190: mountain_dragon_ L Toe11
+    100192: mountain_dragon_ L Toe12
+    100194: mountain_dragon_ L Toe1Nub
+    100196: mountain_dragon_ L Toe2
+    100198: mountain_dragon_ L Toe21
+    100200: mountain_dragon_ L Toe22
+    100202: mountain_dragon_ L Toe2Nub
+    100204: mountain_dragon_ L Toe3
+    100206: mountain_dragon_ L Toe31
+    100208: mountain_dragon_ L Toe32
+    100210: mountain_dragon_ L Toe3Nub
+    100212: mountain_dragon_ L UpperArm
+    100214: mountain_dragon_ Neck
+    100216: mountain_dragon_ Neck1
+    100218: mountain_dragon_ Neck2
+    100220: mountain_dragon_ Neck3
+    100222: mountain_dragon_ Neck4
+    100224: mountain_dragon_ Pelvis
+    100226: mountain_dragon_ R Calf
+    100228: mountain_dragon_ R Clavicle
+    100230: mountain_dragon_ R Finger0
+    100232: mountain_dragon_ R Finger01
+    100234: mountain_dragon_ R Finger02
+    100236: mountain_dragon_ R Finger0Nub
+    100238: mountain_dragon_ R Finger1
+    100240: mountain_dragon_ R Finger11
+    100242: mountain_dragon_ R Finger12
+    100244: mountain_dragon_ R Finger1Nub
+    100246: mountain_dragon_ R Finger2
+    100248: mountain_dragon_ R Finger21
+    100250: mountain_dragon_ R Finger22
+    100252: mountain_dragon_ R Finger2Nub
+    100254: mountain_dragon_ R Finger3
+    100256: mountain_dragon_ R Finger31
+    100258: mountain_dragon_ R Finger32
+    100260: mountain_dragon_ R Finger3Nub
+    100262: mountain_dragon_ R Foot
+    100264: mountain_dragon_ R Forearm
+    100266: mountain_dragon_ R Hand
+    100268: mountain_dragon_ R HorseLink
+    100270: mountain_dragon_ R Thigh
+    100272: mountain_dragon_ R Toe0
+    100274: mountain_dragon_ R Toe01
+    100276: mountain_dragon_ R Toe02
+    100278: mountain_dragon_ R Toe0Nub
+    100280: mountain_dragon_ R Toe1
+    100282: mountain_dragon_ R Toe11
+    100284: mountain_dragon_ R Toe12
+    100286: mountain_dragon_ R Toe1Nub
+    100288: mountain_dragon_ R Toe2
+    100290: mountain_dragon_ R Toe21
+    100292: mountain_dragon_ R Toe22
+    100294: mountain_dragon_ R Toe2Nub
+    100296: mountain_dragon_ R Toe3
+    100298: mountain_dragon_ R Toe31
+    100300: mountain_dragon_ R Toe32
+    100302: mountain_dragon_ R Toe3Nub
+    100304: mountain_dragon_ R UpperArm
+    100306: mountain_dragon_ Spine
+    100308: mountain_dragon_ Spine1
+    100310: mountain_dragon_ Spine2
+    100312: mountain_dragon_ Tail
+    100314: mountain_dragon_ Tail1
+    100316: mountain_dragon_ Tail10
+    100318: mountain_dragon_ Tail11
+    100320: mountain_dragon_ Tail12
+    100322: mountain_dragon_ Tail13
+    100324: mountain_dragon_ Tail14
+    100326: mountain_dragon_ Tail15
+    100328: mountain_dragon_ Tail16
+    100330: mountain_dragon_ Tail2
+    100332: mountain_dragon_ Tail3
+    100334: mountain_dragon_ Tail4
+    100336: mountain_dragon_ Tail5
+    100338: mountain_dragon_ Tail6
+    100340: mountain_dragon_ Tail7
+    100342: mountain_dragon_ Tail8
+    100344: mountain_dragon_ Tail9
+    100346: mountain_dragon_ TailNub
+    100348: wingL_arm_
+    100350: wingL_arm_(mirrored)
+    100352: wingL_foreArm1_
+    100354: wingL_foreArm1_(mirrored)
+    100356: wingL_foreArm2_
+    100358: wingL_foreArm2_(mirrored)
+    100360: wingL_hand_
+    100362: wingL_hand_(mirrored)
+    400000: Bone005
+    400002: Bone005(mirrored)
+    400004: Bone006
+    400006: Bone006(mirrored)
+    400008: Bone007
+    400010: Bone007(mirrored)
+    400012: Bone008
+    400014: Bone008(mirrored)
+    400016: Bone009
+    400018: Bone009(mirrored)
+    400020: Bone010
+    400022: Bone010(mirrored)
+    400024: Bone011
+    400026: Bone011(mirrored)
+    400028: Bone012
+    400030: Bone012(mirrored)
+    400032: Bone013
+    400034: Bone013(mirrored)
+    400036: Bone014
+    400038: Bone014(mirrored)
+    400040: Bone015
+    400042: Bone015(mirrored)
+    400044: Bone016
+    400046: Bone016(mirrored)
+    400048: Bone017
+    400050: Bone017(mirrored)
+    400052: Bone018
+    400054: Bone018(mirrored)
+    400056: Bone019
+    400058: Bone019(mirrored)
+    400060: Bone020
+    400062: Bone020(mirrored)
+    400064: Bone021
+    400066: Bone021(mirrored)
+    400068: Dummy001
+    400070: Dummy002
+    400072: Dummy003
+    400074: Dummy004
+    400076: Dummy005
+    400078: Dummy006
+    400080: Dummy007
+    400082: Dummy008
+    400084: Dummy009
+    400086: Dummy010
+    400088: Dummy011
+    400090: Dummy012
+    400092: IK Chain001
+    400094: IK Chain002
+    400096: IK Chain003
+    400098: IK Chain004
+    400100: IK Chain005
+    400102: IK Chain006
+    400104: IK Chain007
+    400106: IK Chain008
+    400108: IK Chain009
+    400110: IK Chain010
+    400112: jaw_down_01_
+    400114: jaw_down_02_
+    400116: jaw_down_03_
+    400118: jaw_down_04_
+    400120: jaw_up_01_
+    400122: jaw_up_02_
+    400124: mountain_dragon
+    400126: //RootNode
+    400128: mountain_dragon_
+    400130: mountain_dragon_ Head
+    400132: mountain_dragon_ HeadNub
+    400134: mountain_dragon_ L Calf
+    400136: mountain_dragon_ L Clavicle
+    400138: mountain_dragon_ L Finger0
+    400140: mountain_dragon_ L Finger01
+    400142: mountain_dragon_ L Finger02
+    400144: mountain_dragon_ L Finger0Nub
+    400146: mountain_dragon_ L Finger1
+    400148: mountain_dragon_ L Finger11
+    400150: mountain_dragon_ L Finger12
+    400152: mountain_dragon_ L Finger1Nub
+    400154: mountain_dragon_ L Finger2
+    400156: mountain_dragon_ L Finger21
+    400158: mountain_dragon_ L Finger22
+    400160: mountain_dragon_ L Finger2Nub
+    400162: mountain_dragon_ L Finger3
+    400164: mountain_dragon_ L Finger31
+    400166: mountain_dragon_ L Finger32
+    400168: mountain_dragon_ L Finger3Nub
+    400170: mountain_dragon_ L Foot
+    400172: mountain_dragon_ L Forearm
+    400174: mountain_dragon_ L Hand
+    400176: mountain_dragon_ L HorseLink
+    400178: mountain_dragon_ L Thigh
+    400180: mountain_dragon_ L Toe0
+    400182: mountain_dragon_ L Toe01
+    400184: mountain_dragon_ L Toe02
+    400186: mountain_dragon_ L Toe0Nub
+    400188: mountain_dragon_ L Toe1
+    400190: mountain_dragon_ L Toe11
+    400192: mountain_dragon_ L Toe12
+    400194: mountain_dragon_ L Toe1Nub
+    400196: mountain_dragon_ L Toe2
+    400198: mountain_dragon_ L Toe21
+    400200: mountain_dragon_ L Toe22
+    400202: mountain_dragon_ L Toe2Nub
+    400204: mountain_dragon_ L Toe3
+    400206: mountain_dragon_ L Toe31
+    400208: mountain_dragon_ L Toe32
+    400210: mountain_dragon_ L Toe3Nub
+    400212: mountain_dragon_ L UpperArm
+    400214: mountain_dragon_ Neck
+    400216: mountain_dragon_ Neck1
+    400218: mountain_dragon_ Neck2
+    400220: mountain_dragon_ Neck3
+    400222: mountain_dragon_ Neck4
+    400224: mountain_dragon_ Pelvis
+    400226: mountain_dragon_ R Calf
+    400228: mountain_dragon_ R Clavicle
+    400230: mountain_dragon_ R Finger0
+    400232: mountain_dragon_ R Finger01
+    400234: mountain_dragon_ R Finger02
+    400236: mountain_dragon_ R Finger0Nub
+    400238: mountain_dragon_ R Finger1
+    400240: mountain_dragon_ R Finger11
+    400242: mountain_dragon_ R Finger12
+    400244: mountain_dragon_ R Finger1Nub
+    400246: mountain_dragon_ R Finger2
+    400248: mountain_dragon_ R Finger21
+    400250: mountain_dragon_ R Finger22
+    400252: mountain_dragon_ R Finger2Nub
+    400254: mountain_dragon_ R Finger3
+    400256: mountain_dragon_ R Finger31
+    400258: mountain_dragon_ R Finger32
+    400260: mountain_dragon_ R Finger3Nub
+    400262: mountain_dragon_ R Foot
+    400264: mountain_dragon_ R Forearm
+    400266: mountain_dragon_ R Hand
+    400268: mountain_dragon_ R HorseLink
+    400270: mountain_dragon_ R Thigh
+    400272: mountain_dragon_ R Toe0
+    400274: mountain_dragon_ R Toe01
+    400276: mountain_dragon_ R Toe02
+    400278: mountain_dragon_ R Toe0Nub
+    400280: mountain_dragon_ R Toe1
+    400282: mountain_dragon_ R Toe11
+    400284: mountain_dragon_ R Toe12
+    400286: mountain_dragon_ R Toe1Nub
+    400288: mountain_dragon_ R Toe2
+    400290: mountain_dragon_ R Toe21
+    400292: mountain_dragon_ R Toe22
+    400294: mountain_dragon_ R Toe2Nub
+    400296: mountain_dragon_ R Toe3
+    400298: mountain_dragon_ R Toe31
+    400300: mountain_dragon_ R Toe32
+    400302: mountain_dragon_ R Toe3Nub
+    400304: mountain_dragon_ R UpperArm
+    400306: mountain_dragon_ Spine
+    400308: mountain_dragon_ Spine1
+    400310: mountain_dragon_ Spine2
+    400312: mountain_dragon_ Tail
+    400314: mountain_dragon_ Tail1
+    400316: mountain_dragon_ Tail10
+    400318: mountain_dragon_ Tail11
+    400320: mountain_dragon_ Tail12
+    400322: mountain_dragon_ Tail13
+    400324: mountain_dragon_ Tail14
+    400326: mountain_dragon_ Tail15
+    400328: mountain_dragon_ Tail16
+    400330: mountain_dragon_ Tail2
+    400332: mountain_dragon_ Tail3
+    400334: mountain_dragon_ Tail4
+    400336: mountain_dragon_ Tail5
+    400338: mountain_dragon_ Tail6
+    400340: mountain_dragon_ Tail7
+    400342: mountain_dragon_ Tail8
+    400344: mountain_dragon_ Tail9
+    400346: mountain_dragon_ TailNub
+    400348: wingL_arm_
+    400350: wingL_arm_(mirrored)
+    400352: wingL_foreArm1_
+    400354: wingL_foreArm1_(mirrored)
+    400356: wingL_foreArm2_
+    400358: wingL_foreArm2_(mirrored)
+    400360: wingL_hand_
+    400362: wingL_hand_(mirrored)
+    4300000: mountain_dragon
+    7400000: 4legIdle
+    7400002: 4legIdleBite
+    7400004: 4legWalk
+    7400006: 4legRun
+    7400008: 4legJump
+    7400010: 4legThrowFireball
+    7400012: 4legFlameThrowerAttack
+    7400014: 4legConcentratedThrowFireball
+    7400016: 4legConcentratedFlameThrowerAttack
+    7400018: 4legWalkBite
+    7400020: 4legRunBite
+    7400022: 4legJumpBite
+    7400024: 4legWalkThrowFireball
+    7400026: 4legRunThrowFireball
+    7400028: 4legTailAttackL
+    7400030: 4legTailAttackR
+    7400032: 4legCircularTailAttack
+    7400034: 4leg3HitComboTailAttack
+    7400036: 4legGotInjuredFront
+    7400038: 4legGotInjuredRear
+    7400040: 4legGotInjuredTop
+    7400042: 4legGotInjuredBottom
+    7400044: 4legGotInjuredRight
+    7400046: 4legGotInjuredLeft
+    7400048: 4legDeath_GoAsleep
+    7400050: 4legDead_Asleep_Idle
+    7400052: 4leg_Revive_WakeUp
+    7400054: Swim
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: mountain_dragon
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'mountain_dragon_ Pelvis' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'mountain_dragon_
+      Spine' has translation animation that will be discarded.\n\t'mountain_dragon_
+      Spine' is inbetween humanoid transforms and has rotation animation that will
+      be discarded.\n\t'mountain_dragon_ Spine2' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'mountain_dragon_ Neck1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'mountain_dragon_
+      Neck2' is inbetween humanoid transforms and has rotation animation that will
+      be discarded.\n\t'mountain_dragon_ Neck4' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'jaw_up_01_' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'mountain_dragon_
+      L Clavicle' has translation animation that will be discarded.\n\t'mountain_dragon_
+      R Clavicle' has translation animation that will be discarded.\n\t'mountain_dragon_
+      L Thigh' has translation animation that will be discarded.\n\t'mountain_dragon_
+      L HorseLink' is inbetween humanoid transforms and has rotation animation that
+      will be discarded.\n\t'mountain_dragon_ R Thigh' has translation animation that
+      will be discarded.\n\t'mountain_dragon_ R HorseLink' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 4legIdle
+      takeName: 
+      firstFrame: 6
+      lastFrame: 405
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legIdleBite
+      takeName: 
+      firstFrame: 975
+      lastFrame: 995
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legWalk
+      takeName: 
+      firstFrame: 1000
+      lastFrame: 1030
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legRun
+      takeName: 
+      firstFrame: 1035
+      lastFrame: 1065
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legJump
+      takeName: 
+      firstFrame: 1140
+      lastFrame: 1185
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legThrowFireball
+      takeName: 
+      firstFrame: 515
+      lastFrame: 540
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legFlameThrowerAttack
+      takeName: 
+      firstFrame: 410
+      lastFrame: 510
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legConcentratedThrowFireball
+      takeName: 
+      firstFrame: 545
+      lastFrame: 590
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legConcentratedFlameThrowerAttack
+      takeName: 
+      firstFrame: 595
+      lastFrame: 735
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legWalkBite
+      takeName: 
+      firstFrame: 1070
+      lastFrame: 1100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legRunBite
+      takeName: 
+      firstFrame: 1105
+      lastFrame: 1135
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legJumpBite
+      takeName: 
+      firstFrame: 1190
+      lastFrame: 1235
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legWalkThrowFireball
+      takeName: 
+      firstFrame: 1240
+      lastFrame: 1270
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legRunThrowFireball
+      takeName: 
+      firstFrame: 1275
+      lastFrame: 1305
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legTailAttackL
+      takeName: 
+      firstFrame: 740
+      lastFrame: 770
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legTailAttackR
+      takeName: 
+      firstFrame: 775
+      lastFrame: 805
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legCircularTailAttack
+      takeName: 
+      firstFrame: 915
+      lastFrame: 970
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4leg3HitComboTailAttack
+      takeName: 
+      firstFrame: 810
+      lastFrame: 910
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legGotInjuredFront
+      takeName: 
+      firstFrame: 1375
+      lastFrame: 1405
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legGotInjuredRear
+      takeName: 
+      firstFrame: 1410
+      lastFrame: 1440
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legGotInjuredTop
+      takeName: 
+      firstFrame: 1445
+      lastFrame: 1475
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legGotInjuredBottom
+      takeName: 
+      firstFrame: 1480
+      lastFrame: 1510
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legGotInjuredRight
+      takeName: 
+      firstFrame: 1515
+      lastFrame: 1545
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legGotInjuredLeft
+      takeName: 
+      firstFrame: 1550
+      lastFrame: 1580
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legDeath_GoAsleep
+      takeName: 
+      firstFrame: 1585
+      lastFrame: 1665
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4legDead_Asleep_Idle
+      takeName: 
+      firstFrame: 1670
+      lastFrame: 1700
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 4leg_Revive_WakeUp
+      takeName: 
+      firstFrame: 1705
+      lastFrame: 1750
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swim
+      takeName: 
+      firstFrame: 1311
+      lastFrame: 1369
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: mountain_dragon_
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ Neck
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ Neck3
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Toe2
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Toe2
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jaw_up_02_
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: jaw_down_01_
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger0
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger01
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger02
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger11
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger12
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger2
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger21
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger22
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger3
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger31
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ L Finger32
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger0
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger01
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger02
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger11
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger12
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger2
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger21
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger22
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger3
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger31
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mountain_dragon_ R Finger32
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mountain_dragon@animGroup1(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon
+      position: {x: 0.0000005865097, y: 0.08895034, z: 0.8217498}
+      rotation: {x: 0.000000021855694, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_
+      position: {x: 0, y: 4.3785853, z: 0}
+      rotation: {x: -0.50000024, y: 0.49999976, z: 0.4999997, w: 0.5000003}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Pelvis
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.49999967, y: 0.50000036, z: 0.49999967, w: 0.50000036}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Spine
+      position: {x: -0.5405325, y: -0.00078277854, z: 0.00000075069613}
+      rotation: {x: -0.00000205079, y: 0.00000066510034, z: 0.04001222, w: 0.9991992}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Spine1
+      position: {x: -0.98621166, y: -0.0007827663, z: -0.0000000021711002}
+      rotation: {x: 4.2996368e-14, y: -0.000000112081324, z: 0.040410057, w: 0.9991832}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Spine2
+      position: {x: -0.98621184, y: -0.0007827568, z: -0.0000000021710003}
+      rotation: {x: -1.3011621e-14, y: -0.00000011208135, z: 0.040410053, w: 0.9991832}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Dummy011
+      position: {x: -1.225809, y: -0.80353206, z: 0.724984}
+      rotation: {x: 0.52663785, y: 0.7275772, z: -0.39875987, w: 0.18513434}
+      scale: {x: 1.5611504, y: 1.5611506, z: 1.5611495}
+      transformModified: 1
+    - name: Dummy001
+      position: {x: -2.5863872, y: -0.6767433, z: -0.01239624}
+      rotation: {x: 0.10518146, y: -0.3075518, z: 0.24640349, w: 0.91303563}
+      scale: {x: 0.6405533, y: 0.6405534, z: 0.6405536}
+      transformModified: 1
+    - name: Dummy006
+      position: {x: -3.2919042, y: 5.032639, z: 2.7231781}
+      rotation: {x: 0, y: -0, z: -7.907008e-15, w: 1}
+      scale: {x: 0.673968, y: 0.673968, z: 0.673968}
+      transformModified: 1
+    - name: IK Chain005
+      position: {x: -0, y: 0, z: -0.00000061035155}
+      rotation: {x: 0, y: -0, z: -2.394415e-15, w: 1}
+      scale: {x: 1.4837501, y: 1.48375, z: 1.48375}
+      transformModified: 1
+    - name: Dummy007
+      position: {x: -7.5453477, y: -0.38323545, z: 5.7971435}
+      rotation: {x: 0, y: -0, z: -7.907008e-15, w: 1}
+      scale: {x: 0.673968, y: 0.673968, z: 0.673968}
+      transformModified: 1
+    - name: IK Chain004
+      position: {x: -0, y: 0.00000061035155, z: 0.0000036621093}
+      rotation: {x: 0, y: -0, z: -2.394415e-15, w: 1}
+      scale: {x: 1.4837501, y: 1.48375, z: 1.48375}
+      transformModified: 1
+    - name: Dummy008
+      position: {x: -9.582752, y: -5.9153123, z: 5.316188}
+      rotation: {x: 0, y: -0, z: -7.907008e-15, w: 1}
+      scale: {x: 0.673968, y: 0.673968, z: 0.673968}
+      transformModified: 1
+    - name: IK Chain003
+      position: {x: 0.004007568, y: -0.0062829587, z: -0.0011291504}
+      rotation: {x: 0, y: -0, z: -2.394415e-15, w: 1}
+      scale: {x: 1.4837501, y: 1.48375, z: 1.48375}
+      transformModified: 1
+    - name: Dummy009
+      position: {x: -1.6123174, y: -1.4262762, z: 0.66971344}
+      rotation: {x: 0, y: -0, z: -8.08452e-15, w: 1}
+      scale: {x: 0.32958484, y: 0.3295848, z: 0.3295848}
+      transformModified: 1
+    - name: IK Chain006
+      position: {x: 0.0000024414062, y: -0.0000012207031, z: 0}
+      rotation: {x: 5.615842e-27, y: -1.1990228e-12, z: 4.6836827e-15, w: 1}
+      scale: {x: 3.0341198, y: 3.0341198, z: 3.03412}
+      transformModified: 1
+    - name: IK Chain001
+      position: {x: 0.00000061035155, y: -0.00000061035155, z: 0.00000030517577}
+      rotation: {x: 1.6155871e-27, y: 9.094947e-13, z: -1.7763568e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Dummy012
+      position: {x: -1.2258093, y: -0.80352974, z: -0.7249814}
+      rotation: {x: 0.1871368, y: -0.3994465, z: 0.7266458, w: 0.52669555}
+      scale: {x: 1.5611504, y: 1.5611508, z: 1.5611509}
+      transformModified: 1
+    - name: Dummy002
+      position: {x: -2.5880332, y: 0.6705171, z: -0.0024542236}
+      rotation: {x: -0.30609444, y: 0.104785845, z: 0.9139957, w: 0.24482237}
+      scale: {x: 0.6405532, y: 0.6405534, z: 0.6405535}
+      transformModified: 1
+    - name: Dummy003
+      position: {x: 3.2919488, y: 4.937647, z: 2.686758}
+      rotation: {x: -4.217071e-14, y: -5.271339e-15, z: 2.2292954e-15, w: 1}
+      scale: {x: 0.673968, y: 0.673968, z: 0.673968}
+      transformModified: 1
+    - name: IK Chain010
+      position: {x: -0, y: -0.00000030517577, z: -0.00000061035155}
+      rotation: {x: -1.9155323e-14, y: 4.7888308e-15, z: 4.159325e-15, w: 1}
+      scale: {x: 1.4837499, y: 1.4837499, z: 1.4837497}
+      transformModified: 1
+    - name: Dummy004
+      position: {x: 7.545454, y: -0.3916934, z: 5.8020873}
+      rotation: {x: -4.217071e-14, y: -5.271339e-15, z: 2.2292954e-15, w: 1}
+      scale: {x: 0.673968, y: 0.673968, z: 0.673968}
+      transformModified: 1
+    - name: IK Chain009
+      position: {x: -0, y: 0.0000012207031, z: -0.0000024414062}
+      rotation: {x: -1.9155323e-14, y: 4.7888308e-15, z: 4.159325e-15, w: 1}
+      scale: {x: 1.4837499, y: 1.4837499, z: 1.4837497}
+      transformModified: 1
+    - name: Dummy005
+      position: {x: 9.625748, y: -5.814344, z: 5.3158836}
+      rotation: {x: -4.217071e-14, y: -5.271339e-15, z: 2.2292954e-15, w: 1}
+      scale: {x: 0.673968, y: 0.673968, z: 0.673968}
+      transformModified: 1
+    - name: IK Chain008
+      position: {x: 0.0000012207031, y: 0.0000012207031, z: 0.0000012207031}
+      rotation: {x: -1.9155323e-14, y: 4.7888308e-15, z: 4.159325e-15, w: 1}
+      scale: {x: 1.4837499, y: 1.4837499, z: 1.4837497}
+      transformModified: 1
+    - name: Dummy010
+      position: {x: 1.6093841, y: -1.4265229, z: 0.70018643}
+      rotation: {x: -2.1558722e-14, y: -3.7855588e-29, z: 1.7559293e-15, w: 1}
+      scale: {x: 0.32958484, y: 0.32958484, z: 0.32958484}
+      transformModified: 1
+    - name: IK Chain007
+      position: {x: 0.0007421875, y: 0.0007641601, z: 0.0009069824}
+      rotation: {x: 1.873473e-14, y: 4.3679374e-28, z: 2.3314653e-14, w: 1}
+      scale: {x: 3.0341198, y: 3.03412, z: 3.0341198}
+      transformModified: 1
+    - name: IK Chain002
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -1.8143921e-29, y: -3.5527137e-15, z: -5.10706e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Neck
+      position: {x: -0.9862753, y: -0.0007011795, z: -0.0000000019448634}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Neck1
+      position: {x: -0.88062775, y: -0.00050739286, z: -0.0000000014073157}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Neck2
+      position: {x: -0.63726467, y: -0.00050743105, z: -0.0000000014076795}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Neck3
+      position: {x: -0.63726467, y: -0.00050735474, z: -0.0000000014071702}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Neck4
+      position: {x: -0.6372638, y: -0.0005075073, z: -0.0000000014077522}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Head
+      position: {x: -0.637265, y: -0.000000076293944, z: -1.4551915e-13}
+      rotation: {x: -1.210933e-13, y: -0.00000004771445, z: 0.017203769, w: 0.999852}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ HeadNub
+      position: {x: -0.814682, y: 0, z: 2.910383e-13}
+      rotation: {x: -5.684342e-14, y: -2.842171e-14, z: -0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: jaw_up_01_
+      position: {x: -0.919213, y: -0.1124971, z: 0.0000019073486}
+      rotation: {x: 0.9773351, y: -0.21169838, z: -0.00000029689363, w: -0.0000008817859}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: jaw_up_02_
+      position: {x: -1.1590855, y: 0.0000002670288, z: 2.3533175e-13}
+      rotation: {x: 0, y: 0, z: 0.01637529, w: 0.99986595}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: jaw_down_01_
+      position: {x: -0.4379169, y: 0.16906026, z: 0.0000023148166}
+      rotation: {x: 0.84067655, y: -0.5415376, z: -0.00000023693272, w: -0.0000008616327}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: jaw_down_02_
+      position: {x: -0.22724706, y: 0, z: -0.000000013440367}
+      rotation: {x: -0.00000032856835, y: -0.00000030158208, z: -0.26112366, w: 0.9653054}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: jaw_down_03_
+      position: {x: -0.56404346, y: 0.000000076293944, z: -4.8157745e-12}
+      rotation: {x: 8.3765285e-16, y: -1.0008243e-15, z: -0.02296435, w: 0.9997363}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: jaw_down_04_
+      position: {x: -0.9202808, y: -0.000000038146972, z: 0.000000084893344}
+      rotation: {x: 0, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Clavicle
+      position: {x: -0.00000030517577, y: 0.00070041657, z: 0.27668223}
+      rotation: {x: 0.70710677, y: 0.00028152936, z: -0.70710677, w: 0.00028152936}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ L UpperArm
+      position: {x: -0.8425405, y: 0.000000038146972, z: 0}
+      rotation: {x: -0.5743876, y: -0.028494947, z: 0.011781131, w: 0.8180025}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: mountain_dragon_ L Forearm
+      position: {x: -2.2412739, y: 0, z: 0.00000015258789}
+      rotation: {x: -0.01640062, y: 0.028989395, z: 0.02540611, w: 0.9991222}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ L Hand
+      position: {x: -1.5494677, y: 0.00000015258789, z: -0.000000076293944}
+      rotation: {x: -0.62317896, y: 0.16858523, z: 0.03050197, w: 0.7630837}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger0
+      position: {x: -0.17707703, y: 0.15869361, z: -0.35726264}
+      rotation: {x: 0.53658456, y: -0.21685311, z: 0.063722275, w: 0.81301373}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999996}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger01
+      position: {x: -0.23301025, y: 0, z: -0.00000030517577}
+      rotation: {x: 0.000000044668557, y: -0.0000000017667331, z: -0.03952115, w: 0.99921876}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger02
+      position: {x: -0.18335663, y: 0, z: 0.00000030517577}
+      rotation: {x: -0.000000015530285, y: -0.000000014244278, z: -0.043151207, w: 0.99906856}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger0Nub
+      position: {x: -0.21332091, y: 0, z: -0.00000061035155}
+      rotation: {x: -0.000000014901159, y: 0.000000014901158, z: 2.2204453e-16, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger1
+      position: {x: -0.58602417, y: 0.033789825, z: -0.19993721}
+      rotation: {x: 0.0027736055, y: -0.08178993, z: -0.0360508, w: 0.9959935}
+      scale: {x: 0.99999946, y: 1.0000002, z: 0.9999999}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger11
+      position: {x: -0.22197264, y: 0, z: 0}
+      rotation: {x: -0.000000014512443, y: 0.000000018015307, z: -0.02176802, w: 0.9997631}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger12
+      position: {x: -0.2774591, y: 0, z: -0.00000015258789}
+      rotation: {x: 0.000000014735445, y: -0.000000007773183, z: -0.021768026, w: 0.9997631}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger1Nub
+      position: {x: -0.3116705, y: 0.000000076293944, z: -0.00000030517577}
+      rotation: {x: 0.000000014901161, y: -0.000000022351742, z: -0.000000007450581,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger2
+      position: {x: -0.58967835, y: 0.02645027, z: 0.016268883}
+      rotation: {x: -0.0024813681, y: -0.08432779, z: -0.03311942, w: 0.9958845}
+      scale: {x: 0.9999996, y: 1.0000002, z: 0.99999946}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger21
+      position: {x: -0.23145752, y: 0.000000076293944, z: -0.00000019073485}
+      rotation: {x: -4.662802e-10, y: -0.000000021415344, z: -0.021768022, w: 0.9997631}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger22
+      position: {x: -0.2314569, y: 0.000000076293944, z: 0.000000038146972}
+      rotation: {x: 8.109223e-11, y: 0.0000000037244077, z: -0.021768028, w: 0.9997631}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger2Nub
+      position: {x: -0.3740039, y: -0.00000015258789, z: 0.000000038146972}
+      rotation: {x: -0.000000007450581, y: -0.000000013038517, z: -0.000000014901163,
+        w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger3
+      position: {x: -0.5901764, y: 0.0077121733, z: 0.24630244}
+      rotation: {x: -0.0058387746, y: -0.08658486, z: -0.03231237, w: 0.9957032}
+      scale: {x: 0.9999996, y: 1.0000002, z: 0.9999999}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger31
+      position: {x: -0.21332091, y: 0, z: 0.00000034332274}
+      rotation: {x: -2.0273054e-10, y: -0.000000009311019, z: -0.021768026, w: 0.9997631}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger32
+      position: {x: -0.21332031, y: 0, z: -0.000000114440915}
+      rotation: {x: -0.0000000070839, y: 0.000000016922021, z: -0.021768024, w: 0.9997631}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ L Finger3Nub
+      position: {x: -0.31167114, y: 0.000000076293944, z: -0.00000034332274}
+      rotation: {x: -0.0000000074505815, y: 0.000000016763808, z: 1.249001e-16, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ R Clavicle
+      position: {x: -0.00000030517577, y: 0.00070198055, z: -0.27668223}
+      rotation: {x: 0.70710677, y: 0.00028152936, z: 0.70710677, w: -0.00028152936}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R UpperArm
+      position: {x: -0.84254044, y: -0.000000076293944, z: -0.00000030517577}
+      rotation: {x: 0.5743876, y: 0.028496932, z: 0.011781772, w: 0.81800246}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: mountain_dragon_ R Forearm
+      position: {x: -2.2412736, y: 0.00000030517577, z: 0.000000076293944}
+      rotation: {x: 0.016400887, y: -0.028989643, z: 0.025405578, w: 0.9991222}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ R Hand
+      position: {x: -1.5494684, y: 0.0000002670288, z: 0}
+      rotation: {x: 0.6231791, y: -0.1685848, z: 0.030502858, w: 0.7630836}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger0
+      position: {x: -0.17707641, y: 0.15869376, z: 0.3572628}
+      rotation: {x: -0.5365846, y: 0.21685421, z: 0.06372172, w: 0.81301343}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.99999976}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger01
+      position: {x: -0.23300995, y: 0, z: 0}
+      rotation: {x: 5.889115e-10, y: 0.000000014889517, z: -0.039521184, w: 0.99921876}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger02
+      position: {x: -0.18335663, y: 0.00000030517577, z: 0}
+      rotation: {x: 0.000000029131563, y: -0.000000016173288, z: -0.043151207, w: 0.99906856}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger0Nub
+      position: {x: -0.21332031, y: 0, z: 0.00000030517577}
+      rotation: {x: 0.000000014901161, y: -0.000000014901161, z: 1, w: 2.8327696e-16}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger1
+      position: {x: -0.58602357, y: 0.0337899, z: 0.19993702}
+      rotation: {x: -0.002773732, y: 0.081787914, z: -0.036051087, w: 0.99599373}
+      scale: {x: 0.99999946, y: 1.0000004, z: 0.9999999}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger11
+      position: {x: -0.22197264, y: 0.000000076293944, z: -0.00000022888183}
+      rotation: {x: -3.4464168e-10, y: -0.000000015828734, z: -0.021768007, w: 0.9997631}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger12
+      position: {x: -0.2774585, y: -0.000000076293944, z: 0}
+      rotation: {x: 2.838228e-10, y: 0.000000013035427, z: -0.021768028, w: 0.9997631}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger1Nub
+      position: {x: -0.3116705, y: 0.000000076293944, z: 0.000000076293944}
+      rotation: {x: -0.0000000037252899, y: 0.0000000074505797, z: 1, w: 8.898791e-17}
+      scale: {x: -1.0000001, y: -1.0000001, z: -1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger2
+      position: {x: -0.5896777, y: 0.026450194, z: -0.016268862}
+      rotation: {x: 0.0024815497, y: 0.084327474, z: -0.03311966, w: 0.9958844}
+      scale: {x: 0.9999997, y: 1.0000004, z: 0.99999946}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger21
+      position: {x: -0.2314569, y: 0, z: 0.000000076293944}
+      rotation: {x: -0.0000000074488153, y: 1.6218442e-10, z: -0.021768024, w: 0.9997631}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger22
+      position: {x: -0.2314569, y: 0.000000076293944, z: -0.00000015258789}
+      rotation: {x: 0.000000021657161, y: -0.000000032144015, z: -0.02176802, w: 0.9997631}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger2Nub
+      position: {x: -0.3740045, y: 0, z: 0}
+      rotation: {x: -0.0000000037252907, y: 0.000000007450581, z: 1, w: 8.898792e-17}
+      scale: {x: -0.99999994, y: -1, z: -0.9999999}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger3
+      position: {x: -0.59017575, y: 0.0077122496, z: -0.2463022}
+      rotation: {x: 0.0058386624, y: 0.08658263, z: -0.032312855, w: 0.99570346}
+      scale: {x: 0.9999996, y: 1.0000004, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger31
+      position: {x: -0.21332152, y: -0.000000076293944, z: 0.00000015258789}
+      rotation: {x: 3.243689e-10, y: 0.0000000148976325, z: -0.021768024, w: 0.9997631}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger32
+      position: {x: -0.2133197, y: 0, z: 0}
+      rotation: {x: -8.109219e-10, y: -0.000000037244074, z: -0.02176802, w: 0.9997631}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ R Finger3Nub
+      position: {x: -0.31166992, y: -0.000000076293944, z: 0.000000114440915}
+      rotation: {x: -0.00000001676381, y: -0.0000000074505815, z: 1, w: -6.3667794e-17}
+      scale: {x: -0.9999998, y: -0.9999999, z: -0.99999994}
+      transformModified: 1
+    - name: wingL_arm_
+      position: {x: -1.2258087, y: -0.8035326, z: 0.7249838}
+      rotation: {x: 0.5237614, y: 0.72845644, z: -0.40078917, w: 0.18545423}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+      transformModified: 1
+    - name: wingL_foreArm1_
+      position: {x: -3.1983333, y: 0.00000030517577, z: -0.00000019073485}
+      rotation: {x: -0.000000013139138, y: 0.00000002674961, z: 0.4408763, w: 0.8975679}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: wingL_foreArm2_
+      position: {x: -1.3635211, y: 0.00000019073485, z: 0.00000030517577}
+      rotation: {x: 0.0000045645406, y: -0.002136143, z: -0.024559973, w: 0.9996961}
+      scale: {x: 0.9999998, y: 0.9999997, z: 1}
+      transformModified: 1
+    - name: wingL_hand_
+      position: {x: -0.85394835, y: 0.0000016403197, z: -0.00000030517577}
+      rotation: {x: -0.00000070813013, y: 0.00000019750485, z: 0.03692432, w: 0.99931806}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Bone014
+      position: {x: -0.51434326, y: -0.092548214, z: -0.020088805}
+      rotation: {x: 0.019820336, y: -0.04075059, z: 0.16165942, w: 0.9858057}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: Bone015
+      position: {x: -3.9266722, y: 0.00000061035155, z: -0.00000030517577}
+      rotation: {x: -0.0014309468, y: -0.034398578, z: -0.04703933, w: 0.99829954}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+      transformModified: 1
+    - name: Bone016
+      position: {x: -3.8740551, y: 0.00000030517577, z: 0}
+      rotation: {x: -0.013120712, y: -0.059914883, z: -0.22627443, w: 0.97213066}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bone017
+      position: {x: -3.6617541, y: 0, z: -0.00000030517577}
+      rotation: {x: -0.015160875, y: -0.033460602, z: 0.02229269, w: 0.99907637}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: Bone010
+      position: {x: -0.52396727, y: 0.11791679, z: 0.03372223}
+      rotation: {x: 0.008610393, y: -0.0034206274, z: -0.18282016, w: 0.98310274}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000002}
+      transformModified: 1
+    - name: Bone011
+      position: {x: -2.9942052, y: -0.0000015258788, z: 0}
+      rotation: {x: -0.0000054253032, y: 0.000006501502, z: -0.011750452, w: 0.999931}
+      scale: {x: 0.9999997, y: 0.99999964, z: 0.9999999}
+      transformModified: 1
+    - name: Bone012
+      position: {x: -2.7154858, y: 0.0000018310546, z: -0.00000061035155}
+      rotation: {x: -0.0000045347283, y: -0.00000058304715, z: -0.009444312, w: 0.9999554}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: Bone013
+      position: {x: -2.466267, y: -0.0000402832, z: -0.0000012207031}
+      rotation: {x: -0.000004624824, y: -0.0000014202689, z: -0.06077837, w: 0.9981513}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: Bone006
+      position: {x: -0.38775694, y: 0.30039024, z: 0.0077767945}
+      rotation: {x: 0.015249306, y: 0.027827173, z: -0.58865106, w: 0.8077643}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+      transformModified: 1
+    - name: Bone007
+      position: {x: -2.0433164, y: 0.0000012207031, z: -0.00000030517577}
+      rotation: {x: -0.0000029604655, y: 0.0000077456925, z: -0.037448484, w: 0.9992986}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bone008
+      position: {x: -2.178807, y: 0, z: 0}
+      rotation: {x: -0.000007678498, y: -0.0000030206531, z: -0.20755444, w: 0.9782235}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone009
+      position: {x: -1.8855855, y: 0, z: 0.00000061035155}
+      rotation: {x: -0.000003203826, y: -0.0000029764228, z: 0.22211102, w: 0.9750214}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone005
+      position: {x: -0.9169222, y: -0.0000011444084, z: 0.00000003814696}
+      rotation: {x: -0.0000011917411, y: 0.00000002896415, z: -0.024296893, w: 0.99970484}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Bone018
+      position: {x: -0.38975462, y: -0.21280624, z: -0.01833435}
+      rotation: {x: 0.07250486, y: -0.21426472, z: 0.27798143, w: 0.93357384}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: Bone019
+      position: {x: -0.38726866, y: 0, z: 0}
+      rotation: {x: -0.000006036087, y: 0.0000021656126, z: 0.10805178, w: 0.9941453}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Bone020
+      position: {x: -0.28820953, y: 0, z: 0}
+      rotation: {x: -0.0000036649742, y: -0.0000026277444, z: -0.22056285, w: 0.9753728}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: Bone021
+      position: {x: -0.4490277, y: 0.00000015258789, z: 0}
+      rotation: {x: -0.0000032114058, y: 0.0000015761706, z: 0.023216473, w: 0.99973047}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: wingL_arm_(mirrored)
+      position: {x: -1.2258093, y: -0.80352974, z: -0.72498107}
+      rotation: {x: 0.18537995, y: -0.4011094, z: 0.72935814, w: 0.5222856}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: wingL_foreArm1_(mirrored)
+      position: {x: -3.2121587, y: -0.00000030517577, z: 0}
+      rotation: {x: -0.0007957835, y: 0.0018488492, z: -0.4480444, w: 0.89400905}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: wingL_foreArm2_(mirrored)
+      position: {x: -1.3635201, y: 0.0000012969971, z: -0.00000015258789}
+      rotation: {x: 0.0000002095256, y: -0.0000065271715, z: -0.0021437006, w: 0.99999774}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999976}
+      transformModified: 1
+    - name: wingL_hand_(mirrored)
+      position: {x: -0.85394835, y: -0.0000048828124, z: -0.00000030517577}
+      rotation: {x: 0.00000084242396, y: -0.000061361374, z: -0.036913145, w: 0.9993185}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: Bone005(mirrored)
+      position: {x: -0.9169199, y: 0.0000035667413, z: 0.000020713805}
+      rotation: {x: -0.001182005, y: 0.00003852029, z: 0.024302062, w: 0.999704}
+      scale: {x: 0.99999946, y: 0.99999964, z: 0.9999998}
+      transformModified: 1
+    - name: Bone014(mirrored)
+      position: {x: -0.51434386, y: 0.092561565, z: -0.020025635}
+      rotation: {x: -0.024459876, y: -0.045470215, z: -0.1239081, w: 0.9909496}
+      scale: {x: 0.9999996, y: 0.9999997, z: 0.9999996}
+      transformModified: 1
+    - name: Bone015(mirrored)
+      position: {x: -3.926676, y: 0.00000061035155, z: 0.0000021362305}
+      rotation: {x: 0.0016786248, y: -0.035583604, z: 0.04994625, w: 0.99811643}
+      scale: {x: 0.99999964, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Bone016(mirrored)
+      position: {x: -3.8740563, y: -0.00000045776366, z: -0.0000009155273}
+      rotation: {x: 0.013683787, y: -0.061113514, z: 0.23054606, w: 0.971044}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000006}
+      transformModified: 1
+    - name: Bone017(mirrored)
+      position: {x: -3.6617565, y: -0.0000018310546, z: -0.0000018310546}
+      rotation: {x: 0.01516091, y: -0.033462327, z: -0.022292249, w: 0.9990763}
+      scale: {x: 0.9999997, y: 1.0000002, z: 0.9999998}
+      transformModified: 1
+    - name: Bone010(mirrored)
+      position: {x: -0.52396667, y: -0.117933884, z: 0.033668518}
+      rotation: {x: -0.009084807, y: -0.007643491, z: 0.23041132, w: 0.9730209}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.9999995}
+      transformModified: 1
+    - name: Bone011(mirrored)
+      position: {x: -2.9941936, y: 0.0000009155273, z: 0.0000030517576}
+      rotation: {x: 0.0011632394, y: 0.0000010853563, z: -0.000027708596, w: 0.99999934}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: Bone012(mirrored)
+      position: {x: -2.715484, y: 0.0000009155273, z: -0.0000012207031}
+      rotation: {x: 0.000004724624, y: -0.00000038714765, z: 0.000059809547, w: 1}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999999}
+      transformModified: 1
+    - name: Bone013(mirrored)
+      position: {x: -2.466267, y: 0.000038146973, z: -0.0000024414062}
+      rotation: {x: 0.0000042307533, y: 0.000006154488, z: 0.060781077, w: 0.9981511}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Bone006(mirrored)
+      position: {x: -0.38775757, y: -0.3003923, z: 0.007619018}
+      rotation: {x: -0.011507028, y: 0.024763139, z: 0.6108479, w: 0.79127705}
+      scale: {x: 0.9999996, y: 0.9999995, z: 0.9999999}
+      transformModified: 1
+    - name: Bone007(mirrored)
+      position: {x: -2.043317, y: -0.00000061035155, z: 0.0000009155273}
+      rotation: {x: 0.00031042515, y: -0.000053435986, z: 0.042734087, w: 0.99908644}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999976}
+      transformModified: 1
+    - name: Bone008(mirrored)
+      position: {x: -2.178808, y: 0.0000018310546, z: 0}
+      rotation: {x: 0.0000071960903, y: -0.0000011399951, z: 0.21598117, w: 0.9763976}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: Bone009(mirrored)
+      position: {x: -1.8855877, y: -0.0000012207031, z: 0}
+      rotation: {x: 0.000002960723, y: -0.000004311819, z: -0.22211878, w: 0.97501963}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: Bone018(mirrored)
+      position: {x: -0.38975647, y: 0.21281807, z: -0.018207703}
+      rotation: {x: -0.079438046, y: -0.21494955, z: -0.26231515, w: 0.93737775}
+      scale: {x: 0.9999995, y: 0.99999964, z: 0.9999997}
+      transformModified: 1
+    - name: Bone019(mirrored)
+      position: {x: -0.38730407, y: 0, z: 0.00000030517577}
+      rotation: {x: 0.00072710443, y: 0.0001404711, z: -0.08235802, w: 0.99660254}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: Bone020(mirrored)
+      position: {x: -0.28821012, y: -0.0000012207031, z: 0}
+      rotation: {x: 0.0000070590722, y: -0.000011177927, z: 0.30983, w: 0.95079195}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: Bone021(mirrored)
+      position: {x: -0.4490271, y: 0.0000007629394, z: -0.00000030517577}
+      rotation: {x: 0.000003036985, y: -0.0000014418039, z: -0.023216605, w: 0.99973047}
+      scale: {x: 1, y: 0.99999964, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail
+      position: {x: 0.8663194, y: -0.37347728, z: -0.0000009058766}
+      rotation: {x: 2.9538932e-14, y: -0.0000027704805, z: 0.9988751, w: 0.04742017}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail1
+      position: {x: -0.85005707, y: -0.0006768417, z: -0.0000000018773425}
+      rotation: {x: -2.2028398e-13, y: 0.000000007659605, z: -0.0027616099, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail2
+      position: {x: -0.8500576, y: -0.0006768799, z: -0.0000000018773425}
+      rotation: {x: 7.074098e-15, y: 0.000000007659598, z: -0.0027616103, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail3
+      position: {x: -0.85005707, y: -0.0006768799, z: -0.0000000018772697}
+      rotation: {x: -2.202365e-13, y: 0.000000007659617, z: -0.0027616122, w: 0.9999962}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail4
+      position: {x: -0.85005736, y: -0.0006768989, z: -0.0000000018774882}
+      rotation: {x: -2.2030092e-13, y: 0.000000007659602, z: -0.002761609, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail5
+      position: {x: -0.85005736, y: -0.0006768227, z: -0.0000000018773425}
+      rotation: {x: 2.3444706e-13, y: 0.000000007659601, z: -0.0027616092, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail6
+      position: {x: -0.85005766, y: -0.0006768417, z: -0.0000000018773425}
+      rotation: {x: -2.2036238e-13, y: 0.0000000076595885, z: -0.002761606, w: 0.9999962}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail7
+      position: {x: -0.85005736, y: -0.0006768799, z: -0.0000000018772697}
+      rotation: {x: 7.162514e-15, y: 0.000000007659623, z: -0.0027616129, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail8
+      position: {x: -0.85005736, y: -0.0006768799, z: -0.000000001877197}
+      rotation: {x: 2.3439334e-13, y: 0.000000007659587, z: -0.002761607, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail9
+      position: {x: -0.85005796, y: -0.000676918, z: -0.0000000018776336}
+      rotation: {x: -2.2033125e-13, y: 0.000000007659596, z: -0.0027616075, w: 0.9999962}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail10
+      position: {x: -0.85005796, y: -0.0006768799, z: -0.0000000018773425}
+      rotation: {x: -2.2027839e-13, y: 0.000000007659609, z: -0.0027616092, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail11
+      position: {x: -0.85005736, y: -0.00067676546, z: -0.000000001876906}
+      rotation: {x: 2.3437068e-13, y: 0.000000007659594, z: -0.0027616017, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail12
+      position: {x: -0.8500555, y: -0.0006768799, z: -0.000000001877197}
+      rotation: {x: -2.2018146e-13, y: 0.000000007659624, z: -0.0027616168, w: 0.9999962}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail13
+      position: {x: -0.85005736, y: -0.0006768036, z: -0.000000001876906}
+      rotation: {x: 7.0816355e-15, y: 0.000000007659594, z: -0.0027616126, w: 0.9999962}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail14
+      position: {x: -0.85005856, y: -0.00067703245, z: -0.0000000018780701}
+      rotation: {x: 6.998771e-15, y: 0.000000007659595, z: -0.0027616017, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail15
+      position: {x: -0.85005856, y: -0.0006768036, z: -0.0000000018774882}
+      rotation: {x: 2.3449412e-13, y: 0.000000007659608, z: -0.0027616129, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ Tail16
+      position: {x: -0.850072, y: -0.0034310913, z: -0.000000009516661}
+      rotation: {x: -2.2027839e-13, y: 0.000000007659609, z: -0.0027616092, w: 0.9999962}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ TailNub
+      position: {x: -4.3088794, y: 0, z: -2.910383e-13}
+      rotation: {x: 0.7073883, y: -0.7068252, z: -0.0000009810059, w: -0.0000009802251}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Thigh
+      position: {x: 0.5388643, y: -0.042443488, z: 0.9336017}
+      rotation: {x: -0.057411738, y: 0.9932238, z: 0.07451213, w: 0.068252586}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Calf
+      position: {x: -1.8803315, y: -0.000000057220458, z: -0.00000022888183}
+      rotation: {x: 0, y: 0, z: 0.24954185, w: 0.96836406}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L HorseLink
+      position: {x: -1.8803313, y: -0.00000015258789, z: 0.000000076293944}
+      rotation: {x: -0.00000003368559, y: -0.000000034794063, z: -0.36573422, w: 0.9307193}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Foot
+      position: {x: -0.9401657, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.005312948, y: -0.12878808, z: -0.2633146, w: 0.95606005}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe1
+      position: {x: -0.46567076, y: 0.69875306, z: 0.09674888}
+      rotation: {x: 0.033925753, y: 0.03392576, z: -0.70629245, w: 0.70629245}
+      scale: {x: 0.9999998, y: 1, z: 0.99999976}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe11
+      position: {x: -0.39554808, y: 0, z: -0.00000015258789}
+      rotation: {x: 0.0000000074505815, y: -0.0000000074505815, z: 5.5511164e-17,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe12
+      position: {x: -0.29173186, y: 0, z: 0.00000022888183}
+      rotation: {x: 0.0000000074505815, y: -0.0000000074505815, z: 5.5511164e-17,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe1Nub
+      position: {x: -0.3639032, y: 0, z: -0.00000015258789}
+      rotation: {x: -0.0000000074505815, y: -0.0000000074505815, z: 1, w: 5.7211765e-18}
+      scale: {x: -0.9999999, y: -0.99999994, z: -1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe3
+      position: {x: -0.39180115, y: 0.05206314, z: 0.3494966}
+      rotation: {x: 0.41811904, y: 0.418119, z: -0.5702425, w: 0.57024246}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe31
+      position: {x: -0.24485794, y: 0, z: 0.00000015258789}
+      rotation: {x: 0, y: 0.0000000074505815, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe32
+      position: {x: -0.24485794, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000000074505815, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe3Nub
+      position: {x: -0.3125009, y: 0, z: 0}
+      rotation: {x: 0.0000000074505815, y: -4.562165e-25, z: 1, w: 6.123234e-17}
+      scale: {x: -0.99999994, y: -1, z: -1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe0
+      position: {x: -0.46976134, y: 0.6951309, z: -0.14392066}
+      rotation: {x: -0.043167733, y: -0.04316772, z: -0.7057879, w: 0.7057879}
+      scale: {x: 0.99999976, y: 1, z: 0.9999997}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe01
+      position: {x: -0.30414444, y: 0.00000061035155, z: 0.00000015258789}
+      rotation: {x: -1.110223e-16, y: 0.000000007450581, z: 0.000000014901161, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe02
+      position: {x: -0.3239833, y: 0, z: 0}
+      rotation: {x: -1.110223e-16, y: 0.000000007450581, z: 0.000000014901161, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe0Nub
+      position: {x: -0.34115934, y: -0.00000061035155, z: 0.00000015258789}
+      rotation: {x: 0.000000007450581, y: 4.562165e-25, z: 1, w: -6.123234e-17}
+      scale: {x: -1, y: -1.0000001, z: -1}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe2
+      position: {x: -0.5405957, y: 0.702969, z: 0.32173553}
+      rotation: {x: 0.13794947, y: 0.13794947, z: -0.69352, w: 0.69351995}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe21
+      position: {x: -0.31941894, y: -0.00000061035155, z: 0}
+      rotation: {x: 0.000000013038518, y: 0.000000014901161, z: -0.000000014901161,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe22
+      position: {x: -0.27365968, y: 0.00000061035155, z: -0.00000015258789}
+      rotation: {x: 0.000000013038518, y: 0.000000014901161, z: -0.000000014901161,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ L Toe2Nub
+      position: {x: -0.3866475, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.000000014901161, y: -0.000000013038517, z: 1, w: 2.5552139e-16}
+      scale: {x: -1, y: -0.99999994, z: -0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ R Thigh
+      position: {x: 0.5388643, y: -0.04243831, z: -0.933602}
+      rotation: {x: -0.057411633, y: 0.99322414, z: -0.07450893, w: -0.068251275}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ R Calf
+      position: {x: -1.8803314, y: 0.0000002002716, z: -0.00000030517577}
+      rotation: {x: -0.000000032577965, y: 0.0000000069928254, z: 0.24954182, w: 0.96836406}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ R HorseLink
+      position: {x: -1.8803314, y: -0.00000022888183, z: 0.00000015258789}
+      rotation: {x: -0.00000001486505, y: -0.000000058200122, z: -0.3657341, w: 0.9307194}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ R Foot
+      position: {x: -0.9401657, y: 0, z: 0.00000045776366}
+      rotation: {x: -0.0053130067, y: 0.12878945, z: -0.2633147, w: 0.9560598}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe3
+      position: {x: -0.36856323, y: 0.08488648, z: -0.34798384}
+      rotation: {x: -0.418119, y: -0.41811904, z: -0.57024246, w: 0.57024246}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe31
+      position: {x: -0.24485824, y: 0, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe32
+      position: {x: -0.24485762, y: 0, z: 0.00000030517577}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe3Nub
+      position: {x: -0.31250122, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe1
+      position: {x: -0.46567017, y: 0.6987532, z: -0.09674911}
+      rotation: {x: -0.033925742, y: -0.033925753, z: -0.70629245, w: 0.70629245}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe11
+      position: {x: -0.3955484, y: 0, z: 0}
+      rotation: {x: 0.000000014901161, y: 0.000000014901159, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe12
+      position: {x: -0.29173157, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.000000014901161, y: 0.000000014901159, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe1Nub
+      position: {x: -0.3639035, y: 0, z: -0.00000015258789}
+      rotation: {x: 0.000000014901161, y: 0.000000014901159, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe2
+      position: {x: -0.5405957, y: 0.7029694, z: -0.32173622}
+      rotation: {x: -0.13794947, y: -0.13794948, z: -0.69351995, w: 0.69351995}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe21
+      position: {x: -0.31941923, y: 0, z: 0.00000030517577}
+      rotation: {x: 0.000000013038514, y: 0.000000013038514, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe22
+      position: {x: -0.27365983, y: 0, z: 0}
+      rotation: {x: 0.000000013038514, y: 0.000000013038514, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe2Nub
+      position: {x: -0.3866478, y: 0, z: -0.00000015258789}
+      rotation: {x: 0.000000013038514, y: 0.000000013038514, z: 0.000000014901159,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe0
+      position: {x: -0.46976075, y: 0.6951306, z: 0.14392059}
+      rotation: {x: 0.04316773, y: 0.043167718, z: -0.7057879, w: 0.7057879}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe01
+      position: {x: -0.3041441, y: 0, z: 0.00000015258789}
+      rotation: {x: 0.000000014901159, y: 0.0000000074505797, z: -1.11022276e-16,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe02
+      position: {x: -0.3239833, y: 0, z: -0.00000015258789}
+      rotation: {x: 0.000000014901159, y: 0.0000000074505797, z: -1.11022276e-16,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: mountain_dragon_ R Toe0Nub
+      position: {x: -0.34115952, y: 0, z: 0.00000030517577}
+      rotation: {x: 0.000000014901159, y: 0.0000000074505797, z: -1.11022276e-16,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

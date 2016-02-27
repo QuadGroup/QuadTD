@@ -1,0 +1,1458 @@
+fileFormatVersion: 2
+guid: 297e1c5da9a9e074f8810fdb1bac7701
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EVIL_WATCHER_body
+    100002: EVIL_WATCHER_eyelid_lower_A_L_01
+    100004: EVIL_WATCHER_eyelid_lower_A_L_02
+    100006: EVIL_WATCHER_eyelid_lower_A_L_03
+    100008: EVIL_WATCHER_eyelid_lower_A_R_01
+    100010: EVIL_WATCHER_eyelid_lower_A_R_02
+    100012: EVIL_WATCHER_eyelid_lower_A_R_03
+    100014: EVIL_WATCHER_eyelid_lower_B_L_01
+    100016: EVIL_WATCHER_eyelid_lower_B_L_02
+    100018: EVIL_WATCHER_eyelid_lower_B_L_03
+    100020: EVIL_WATCHER_eyelid_lower_B_R_01
+    100022: EVIL_WATCHER_eyelid_lower_B_R_02
+    100024: EVIL_WATCHER_eyelid_lower_B_R_03
+    100026: EVIL_WATCHER_eyelid_upper_A_L_01
+    100028: EVIL_WATCHER_eyelid_upper_A_L_02
+    100030: EVIL_WATCHER_eyelid_upper_A_L_03
+    100032: EVIL_WATCHER_eyelid_upper_A_R_01
+    100034: EVIL_WATCHER_eyelid_upper_A_R_02
+    100036: EVIL_WATCHER_eyelid_upper_A_R_03
+    100038: EVIL_WATCHER_eyelid_upper_B_L_01
+    100040: EVIL_WATCHER_eyelid_upper_B_L_02
+    100042: EVIL_WATCHER_eyelid_upper_B_L_03
+    100044: EVIL_WATCHER_eyelid_upper_B_R_01
+    100046: EVIL_WATCHER_eyelid_upper_B_R_02
+    100048: EVIL_WATCHER_eyelid_upper_B_R_03
+    100050: EVIL_WATCHER_fin_L_arm
+    100052: EVIL_WATCHER_fin_L_finger_a_01
+    100054: EVIL_WATCHER_fin_L_finger_a_02
+    100056: EVIL_WATCHER_fin_L_finger_a_03
+    100058: EVIL_WATCHER_fin_L_finger_b_01
+    100060: EVIL_WATCHER_fin_L_finger_b_02
+    100062: EVIL_WATCHER_fin_L_finger_b_03
+    100064: EVIL_WATCHER_fin_L_finger_c_01
+    100066: EVIL_WATCHER_fin_L_finger_c_02
+    100068: EVIL_WATCHER_fin_L_finger_c_03
+    100070: EVIL_WATCHER_fin_L_forearm
+    100072: EVIL_WATCHER_fin_L_hand
+    100074: EVIL_WATCHER_fin_R_arm
+    100076: EVIL_WATCHER_fin_R_finger_a_01
+    100078: EVIL_WATCHER_fin_R_finger_a_02
+    100080: EVIL_WATCHER_fin_R_finger_a_03
+    100082: EVIL_WATCHER_fin_R_finger_b_01
+    100084: EVIL_WATCHER_fin_R_finger_b_02
+    100086: EVIL_WATCHER_fin_R_finger_b_03
+    100088: EVIL_WATCHER_fin_R_finger_c_01
+    100090: EVIL_WATCHER_fin_R_finger_c_02
+    100092: EVIL_WATCHER_fin_R_finger_c_03
+    100094: EVIL_WATCHER_fin_R_forearm
+    100096: EVIL_WATCHER_fin_R_hand
+    100098: EVIL_WATCHER_jaw_lower
+    100100: EVIL_WATCHER_middle_eye
+    100102: EVIL_WATCHER_middle_eye 1
+    100104: EVIL_WATCHER_NO_TAIL
+    100106: EVIL_WATCHER_root_
+    100108: //RootNode
+    100110: EVIL_WATCHER_tail_01
+    100112: EVIL_WATCHER_tail_02
+    100114: EVIL_WATCHER_tail_03
+    100116: EVIL_WATCHER_tail_04
+    100118: EVIL_WATCHER_tail_05
+    100120: EVIL_WATCHER_tail_06
+    100122: EVIL_WATCHER_tail_07
+    100124: EVIL_WATCHER_tentacle_eye_A_01
+    100126: EVIL_WATCHER_tentacle_eye_A_02
+    100128: EVIL_WATCHER_tentacle_eye_A_03
+    100130: EVIL_WATCHER_tentacle_eye_A_04
+    100132: EVIL_WATCHER_tentacle_eye_A_05
+    100134: EVIL_WATCHER_tentacle_eye_B_01
+    100136: EVIL_WATCHER_tentacle_eye_B_02
+    100138: EVIL_WATCHER_tentacle_eye_B_03
+    100140: EVIL_WATCHER_tentacle_eye_B_04
+    100142: EVIL_WATCHER_tentacle_eye_B_05
+    100144: EVIL_WATCHER_tentacle_eye_C_01
+    100146: EVIL_WATCHER_tentacle_eye_C_02
+    100148: EVIL_WATCHER_tentacle_eye_C_03
+    100150: EVIL_WATCHER_tentacle_eye_C_04
+    100152: EVIL_WATCHER_tentacle_eye_C_05
+    100154: EVIL_WATCHER_tentacle_eye_D_01
+    100156: EVIL_WATCHER_tentacle_eye_D_02
+    100158: EVIL_WATCHER_tentacle_eye_D_03
+    100160: EVIL_WATCHER_tentacle_eye_D_04
+    100162: EVIL_WATCHER_tentacle_eye_D_05
+    100164: EVIL_WATCHER_tentacle_eye_E_01
+    100166: EVIL_WATCHER_tentacle_eye_E_02
+    100168: EVIL_WATCHER_tentacle_eye_E_03
+    100170: EVIL_WATCHER_tentacle_eye_E_04
+    100172: EVIL_WATCHER_tentacle_eye_E_05
+    100174: EVIL_WATCHER_tentacle_eye_F_01
+    100176: EVIL_WATCHER_tentacle_eye_F_02
+    100178: EVIL_WATCHER_tentacle_eye_F_03
+    100180: EVIL_WATCHER_tentacle_eye_F_04
+    100182: EVIL_WATCHER_tentacle_eye_F_05
+    100184: EVIL_WATCHER_tentacle_eye_G_01
+    100186: EVIL_WATCHER_tentacle_eye_G_02
+    100188: EVIL_WATCHER_tentacle_eye_G_03
+    100190: EVIL_WATCHER_tentacle_eye_G_04
+    100192: EVIL_WATCHER_tentacle_eye_G_05
+    100194: EVIL_WATCHER_tentacle_eye_H_01
+    100196: EVIL_WATCHER_tentacle_eye_H_02
+    100198: EVIL_WATCHER_tentacle_eye_H_03
+    100200: EVIL_WATCHER_tentacle_eye_H_04
+    100202: EVIL_WATCHER_tentacle_eye_H_05
+    100204: EVIL_WATCHER_tentacle_eye_I_01
+    100206: EVIL_WATCHER_tentacle_eye_I_02
+    100208: EVIL_WATCHER_tentacle_eye_I_03
+    100210: EVIL_WATCHER_tentacle_eye_I_04
+    100212: EVIL_WATCHER_tentacle_eye_I_05
+    100214: EVIL_WATCHER_tentacle_eye_J_01
+    100216: EVIL_WATCHER_tentacle_eye_J_02
+    100218: EVIL_WATCHER_tentacle_eye_J_03
+    100220: EVIL_WATCHER_tentacle_eye_J_04
+    100222: EVIL_WATCHER_tentacle_eye_J_05
+    100224: EVIL_WATCHER_tentacle_eyelid_A_lower
+    100226: EVIL_WATCHER_tentacle_eyelid_A_upper
+    100228: EVIL_WATCHER_tentacle_eyelid_B_lower
+    100230: EVIL_WATCHER_tentacle_eyelid_B_upper
+    100232: EVIL_WATCHER_tentacle_eyelid_C_lower
+    100234: EVIL_WATCHER_tentacle_eyelid_C_upper
+    100236: EVIL_WATCHER_tentacle_eyelid_D_lower
+    100238: EVIL_WATCHER_tentacle_eyelid_D_upper
+    100240: EVIL_WATCHER_tentacle_eyelid_E_lower
+    100242: EVIL_WATCHER_tentacle_eyelid_E_upper
+    100244: EVIL_WATCHER_tentacle_eyelid_F_lower
+    100246: EVIL_WATCHER_tentacle_eyelid_F_upper
+    100248: EVIL_WATCHER_tentacle_eyelid_G_lower
+    100250: EVIL_WATCHER_tentacle_eyelid_G_upper
+    100252: EVIL_WATCHER_tentacle_eyelid_H_lower
+    100254: EVIL_WATCHER_tentacle_eyelid_H_upper
+    100256: EVIL_WATCHER_tentacle_eyelid_I_lower
+    100258: EVIL_WATCHER_tentacle_eyelid_I_upper
+    100260: EVIL_WATCHER_tentacle_eyelid_J_lower
+    100262: EVIL_WATCHER_tentacle_eyelid_J_upper
+    100264: Factice025
+    100266: Factice026
+    100268: Factice027
+    400000: EVIL_WATCHER_body
+    400002: EVIL_WATCHER_eyelid_lower_A_L_01
+    400004: EVIL_WATCHER_eyelid_lower_A_L_02
+    400006: EVIL_WATCHER_eyelid_lower_A_L_03
+    400008: EVIL_WATCHER_eyelid_lower_A_R_01
+    400010: EVIL_WATCHER_eyelid_lower_A_R_02
+    400012: EVIL_WATCHER_eyelid_lower_A_R_03
+    400014: EVIL_WATCHER_eyelid_lower_B_L_01
+    400016: EVIL_WATCHER_eyelid_lower_B_L_02
+    400018: EVIL_WATCHER_eyelid_lower_B_L_03
+    400020: EVIL_WATCHER_eyelid_lower_B_R_01
+    400022: EVIL_WATCHER_eyelid_lower_B_R_02
+    400024: EVIL_WATCHER_eyelid_lower_B_R_03
+    400026: EVIL_WATCHER_eyelid_upper_A_L_01
+    400028: EVIL_WATCHER_eyelid_upper_A_L_02
+    400030: EVIL_WATCHER_eyelid_upper_A_L_03
+    400032: EVIL_WATCHER_eyelid_upper_A_R_01
+    400034: EVIL_WATCHER_eyelid_upper_A_R_02
+    400036: EVIL_WATCHER_eyelid_upper_A_R_03
+    400038: EVIL_WATCHER_eyelid_upper_B_L_01
+    400040: EVIL_WATCHER_eyelid_upper_B_L_02
+    400042: EVIL_WATCHER_eyelid_upper_B_L_03
+    400044: EVIL_WATCHER_eyelid_upper_B_R_01
+    400046: EVIL_WATCHER_eyelid_upper_B_R_02
+    400048: EVIL_WATCHER_eyelid_upper_B_R_03
+    400050: EVIL_WATCHER_fin_L_arm
+    400052: EVIL_WATCHER_fin_L_finger_a_01
+    400054: EVIL_WATCHER_fin_L_finger_a_02
+    400056: EVIL_WATCHER_fin_L_finger_a_03
+    400058: EVIL_WATCHER_fin_L_finger_b_01
+    400060: EVIL_WATCHER_fin_L_finger_b_02
+    400062: EVIL_WATCHER_fin_L_finger_b_03
+    400064: EVIL_WATCHER_fin_L_finger_c_01
+    400066: EVIL_WATCHER_fin_L_finger_c_02
+    400068: EVIL_WATCHER_fin_L_finger_c_03
+    400070: EVIL_WATCHER_fin_L_forearm
+    400072: EVIL_WATCHER_fin_L_hand
+    400074: EVIL_WATCHER_fin_R_arm
+    400076: EVIL_WATCHER_fin_R_finger_a_01
+    400078: EVIL_WATCHER_fin_R_finger_a_02
+    400080: EVIL_WATCHER_fin_R_finger_a_03
+    400082: EVIL_WATCHER_fin_R_finger_b_01
+    400084: EVIL_WATCHER_fin_R_finger_b_02
+    400086: EVIL_WATCHER_fin_R_finger_b_03
+    400088: EVIL_WATCHER_fin_R_finger_c_01
+    400090: EVIL_WATCHER_fin_R_finger_c_02
+    400092: EVIL_WATCHER_fin_R_finger_c_03
+    400094: EVIL_WATCHER_fin_R_forearm
+    400096: EVIL_WATCHER_fin_R_hand
+    400098: EVIL_WATCHER_jaw_lower
+    400100: EVIL_WATCHER_middle_eye
+    400102: EVIL_WATCHER_middle_eye 1
+    400104: EVIL_WATCHER_NO_TAIL
+    400106: EVIL_WATCHER_root_
+    400108: //RootNode
+    400110: EVIL_WATCHER_tail_01
+    400112: EVIL_WATCHER_tail_02
+    400114: EVIL_WATCHER_tail_03
+    400116: EVIL_WATCHER_tail_04
+    400118: EVIL_WATCHER_tail_05
+    400120: EVIL_WATCHER_tail_06
+    400122: EVIL_WATCHER_tail_07
+    400124: EVIL_WATCHER_tentacle_eye_A_01
+    400126: EVIL_WATCHER_tentacle_eye_A_02
+    400128: EVIL_WATCHER_tentacle_eye_A_03
+    400130: EVIL_WATCHER_tentacle_eye_A_04
+    400132: EVIL_WATCHER_tentacle_eye_A_05
+    400134: EVIL_WATCHER_tentacle_eye_B_01
+    400136: EVIL_WATCHER_tentacle_eye_B_02
+    400138: EVIL_WATCHER_tentacle_eye_B_03
+    400140: EVIL_WATCHER_tentacle_eye_B_04
+    400142: EVIL_WATCHER_tentacle_eye_B_05
+    400144: EVIL_WATCHER_tentacle_eye_C_01
+    400146: EVIL_WATCHER_tentacle_eye_C_02
+    400148: EVIL_WATCHER_tentacle_eye_C_03
+    400150: EVIL_WATCHER_tentacle_eye_C_04
+    400152: EVIL_WATCHER_tentacle_eye_C_05
+    400154: EVIL_WATCHER_tentacle_eye_D_01
+    400156: EVIL_WATCHER_tentacle_eye_D_02
+    400158: EVIL_WATCHER_tentacle_eye_D_03
+    400160: EVIL_WATCHER_tentacle_eye_D_04
+    400162: EVIL_WATCHER_tentacle_eye_D_05
+    400164: EVIL_WATCHER_tentacle_eye_E_01
+    400166: EVIL_WATCHER_tentacle_eye_E_02
+    400168: EVIL_WATCHER_tentacle_eye_E_03
+    400170: EVIL_WATCHER_tentacle_eye_E_04
+    400172: EVIL_WATCHER_tentacle_eye_E_05
+    400174: EVIL_WATCHER_tentacle_eye_F_01
+    400176: EVIL_WATCHER_tentacle_eye_F_02
+    400178: EVIL_WATCHER_tentacle_eye_F_03
+    400180: EVIL_WATCHER_tentacle_eye_F_04
+    400182: EVIL_WATCHER_tentacle_eye_F_05
+    400184: EVIL_WATCHER_tentacle_eye_G_01
+    400186: EVIL_WATCHER_tentacle_eye_G_02
+    400188: EVIL_WATCHER_tentacle_eye_G_03
+    400190: EVIL_WATCHER_tentacle_eye_G_04
+    400192: EVIL_WATCHER_tentacle_eye_G_05
+    400194: EVIL_WATCHER_tentacle_eye_H_01
+    400196: EVIL_WATCHER_tentacle_eye_H_02
+    400198: EVIL_WATCHER_tentacle_eye_H_03
+    400200: EVIL_WATCHER_tentacle_eye_H_04
+    400202: EVIL_WATCHER_tentacle_eye_H_05
+    400204: EVIL_WATCHER_tentacle_eye_I_01
+    400206: EVIL_WATCHER_tentacle_eye_I_02
+    400208: EVIL_WATCHER_tentacle_eye_I_03
+    400210: EVIL_WATCHER_tentacle_eye_I_04
+    400212: EVIL_WATCHER_tentacle_eye_I_05
+    400214: EVIL_WATCHER_tentacle_eye_J_01
+    400216: EVIL_WATCHER_tentacle_eye_J_02
+    400218: EVIL_WATCHER_tentacle_eye_J_03
+    400220: EVIL_WATCHER_tentacle_eye_J_04
+    400222: EVIL_WATCHER_tentacle_eye_J_05
+    400224: EVIL_WATCHER_tentacle_eyelid_A_lower
+    400226: EVIL_WATCHER_tentacle_eyelid_A_upper
+    400228: EVIL_WATCHER_tentacle_eyelid_B_lower
+    400230: EVIL_WATCHER_tentacle_eyelid_B_upper
+    400232: EVIL_WATCHER_tentacle_eyelid_C_lower
+    400234: EVIL_WATCHER_tentacle_eyelid_C_upper
+    400236: EVIL_WATCHER_tentacle_eyelid_D_lower
+    400238: EVIL_WATCHER_tentacle_eyelid_D_upper
+    400240: EVIL_WATCHER_tentacle_eyelid_E_lower
+    400242: EVIL_WATCHER_tentacle_eyelid_E_upper
+    400244: EVIL_WATCHER_tentacle_eyelid_F_lower
+    400246: EVIL_WATCHER_tentacle_eyelid_F_upper
+    400248: EVIL_WATCHER_tentacle_eyelid_G_lower
+    400250: EVIL_WATCHER_tentacle_eyelid_G_upper
+    400252: EVIL_WATCHER_tentacle_eyelid_H_lower
+    400254: EVIL_WATCHER_tentacle_eyelid_H_upper
+    400256: EVIL_WATCHER_tentacle_eyelid_I_lower
+    400258: EVIL_WATCHER_tentacle_eyelid_I_upper
+    400260: EVIL_WATCHER_tentacle_eyelid_J_lower
+    400262: EVIL_WATCHER_tentacle_eyelid_J_upper
+    400264: Factice025
+    400266: Factice026
+    400268: Factice027
+    2300000: EVIL_WATCHER_middle_eye 1
+    3300000: EVIL_WATCHER_middle_eye 1
+    4300000: EVIL_WATCHER_middle_eye
+    4300002: EVIL_WATCHER_NO_TAIL
+    7400000: idleWatch
+    7400002: idleSleep
+    7400004: wakeUp
+    7400006: flyForward
+    7400008: flyRight
+    7400010: flyLeft
+    7400012: dashForward
+    7400014: attack1
+    7400016: attack2
+    7400018: getHit
+    7400020: death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: EVIL_WATCHER_NO_TAIL
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''EVIL_WATCHER_TAIL@all_anims'' conversion failed: Required human
+      bone ''Head'' not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idleWatch
+      takeName: 
+      firstFrame: 5
+      lastFrame: 364
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idleSleep
+      takeName: 
+      firstFrame: 375
+      lastFrame: 494
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: wakeUp
+      takeName: 
+      firstFrame: 500
+      lastFrame: 529
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: flyForward
+      takeName: 
+      firstFrame: 545
+      lastFrame: 574
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: flyRight
+      takeName: 
+      firstFrame: 585
+      lastFrame: 614
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: flyLeft
+      takeName: 
+      firstFrame: 620
+      lastFrame: 649
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dashForward
+      takeName: 
+      firstFrame: 655
+      lastFrame: 684
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack1
+      takeName: 
+      firstFrame: 690
+      lastFrame: 730
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack2
+      takeName: 
+      firstFrame: 740
+      lastFrame: 795
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: getHit
+      takeName: 
+      firstFrame: 800
+      lastFrame: 830
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: death
+      takeName: 
+      firstFrame: 840
+      lastFrame: 920
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: EVIL_WATCHER_root_
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_fin_L_arm
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_fin_R_arm
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_fin_L_forearm
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_fin_R_forearm
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_fin_L_hand
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_fin_R_hand
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_tentacle_eye_F_01
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_tentacle_eye_F_02
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_tentacle_eye_F_03
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_tentacle_eye_F_04
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_tentacle_eye_F_05
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_fin_L_finger_a_01
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: EVIL_WATCHER_fin_R_finger_a_01
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: EVIL_WATCHER_TAIL@all_anims(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_NO_TAIL
+      position: {x: 0, y: 1.3570497, z: 0.47410843}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_root_
+      position: {x: 0, y: 0.59448934, z: -0.0129559785}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Factice025
+      position: {x: -0.000000029802322, y: 0.6781099, z: 0.037552238}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tail_01
+      position: {x: -0.00000000979967, y: 0, z: 0}
+      rotation: {x: -0.49447626, y: 0.50546336, z: -0.4944762, w: 0.5054634}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tail_02
+      position: {x: -0.18599904, y: -0.000000834465, z: 0.00000002216943}
+      rotation: {x: 0.000000040246427, y: 4.044923e-10, z: 0.010049889, w: 0.9999495}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tail_03
+      position: {x: -0.19433665, y: -0.0000141859055, z: 0.000000022849505}
+      rotation: {x: 0, y: -0, z: -0.0021331904, w: 0.99999774}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tail_04
+      position: {x: -0.26994753, y: 0.0000010728836, z: 0.000000031744463}
+      rotation: {x: 0.0000000013634218, y: 1.8721675e-11, z: 0.013730095, w: 0.99990577}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tail_05
+      position: {x: -0.31332922, y: -0.0000005364418, z: 0.000000036830926}
+      rotation: {x: -7.1888513e-17, y: -2.3321754e-15, z: -0.030810026, w: 0.99952525}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tail_06
+      position: {x: -0.5614892, y: 0, z: -4.4479975e-12}
+      rotation: {x: 2.2085247e-16, y: -6.450082e-15, z: -0.0018199057, w: 0.99999833}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tail_07
+      position: {x: -0.7770889, y: 0, z: 0.00000009116043}
+      rotation: {x: -6.043145e-18, y: -1.4905617e-15, z: -0.00405667, w: 0.9999918}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Factice026
+      position: {x: -0.63446164, y: -0.012955546, z: -0.078677595}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_arm
+      position: {x: -0.0000017881393, y: -0.0000004172325, z: -0.00000035762787}
+      rotation: {x: -0.011049536, y: -0.6189696, z: -0.012912569, w: 0.78523105}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_forearm
+      position: {x: -0.324579, y: -0.000000014901161, z: 0}
+      rotation: {x: 0, y: 0, z: 0.0593811, w: 0.9982354}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_hand
+      position: {x: -0.19183218, y: 0.000000059604645, z: 0}
+      rotation: {x: 0.2723924, y: 0.5559209, z: 0.2584645, w: 0.74158657}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_finger_a_01
+      position: {x: -0.07107484, y: -0.03606631, z: 0}
+      rotation: {x: 0, y: 0, z: 0.18501689, w: 0.98273534}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_finger_a_02
+      position: {x: -0.534919, y: -0.000000059604645, z: 0}
+      rotation: {x: 0, y: -0, z: -0.21732451, w: 0.97609943}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_finger_a_03
+      position: {x: -0.48633063, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.13730338, w: 0.99052906}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_finger_b_01
+      position: {x: -0.0753479, y: -0.0000019818544, z: 0}
+      rotation: {x: 0, y: -0, z: -0.05194379, w: 0.99865}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_finger_b_02
+      position: {x: -0.42866647, y: -0.0000011175871, z: 0}
+      rotation: {x: 0, y: -0, z: -0.22316954, w: 0.97477967}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_finger_b_03
+      position: {x: -0.35786128, y: 0.00000011920929, z: 0}
+      rotation: {x: 0, y: -0, z: -0.2561755, w: 0.96663034}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_finger_c_01
+      position: {x: -0.069794536, y: 0.04369065, z: 0}
+      rotation: {x: 0, y: -0, z: -0.36300042, w: 0.931789}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_finger_c_02
+      position: {x: -0.25702548, y: -0.000000059604645, z: 0}
+      rotation: {x: 0, y: -0, z: -0.16351117, w: 0.9865415}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_L_finger_c_03
+      position: {x: -0.2344439, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.19913813, w: 0.97997147}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Factice027
+      position: {x: 0.6340007, y: -0.012955546, z: -0.078677595}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_arm
+      position: {x: -0.00000071525574, y: -0.0000004172325, z: -0.00000035762787}
+      rotation: {x: 0.6189696, y: 0.011049536, z: 0.78523105, w: -0.012912449}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_forearm
+      position: {x: -0.32457903, y: -0.000000029802322, z: 0}
+      rotation: {x: 0, y: -0, z: -0.05938097, w: 0.9982354}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_hand
+      position: {x: -0.19183211, y: -0.000000074505806, z: 0}
+      rotation: {x: -0.272392, y: 0.55592096, z: -0.2584641, w: 0.7415866}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_finger_a_01
+      position: {x: -0.07107481, y: 0.03606634, z: 0}
+      rotation: {x: 0, y: -0, z: -0.18501675, w: 0.9827354}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_finger_a_02
+      position: {x: -0.534919, y: 0.0000001937151, z: 0}
+      rotation: {x: 0, y: 0, z: 0.21732432, w: 0.97609943}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_finger_a_03
+      position: {x: -0.48633075, y: 0.000000011175871, z: 0}
+      rotation: {x: 3.4413324e-15, y: -1.076217e-15, z: 0.13730335, w: 0.99052906}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_finger_b_01
+      position: {x: -0.07534793, y: 0.0000020116568, z: 0}
+      rotation: {x: 0, y: 0, z: 0.051943757, w: 0.99865}
+      scale: {x: 0.99999976, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_finger_b_02
+      position: {x: -0.42866647, y: 0.0000011324883, z: 0}
+      rotation: {x: 0, y: 0, z: 0.22316971, w: 0.9747796}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_finger_b_03
+      position: {x: -0.35786128, y: -0.000000029802322, z: 0}
+      rotation: {x: 0, y: 0, z: 0.25617516, w: 0.9666304}
+      scale: {x: 1, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_finger_c_01
+      position: {x: -0.069794565, y: -0.04369062, z: 0}
+      rotation: {x: 1.0676651e-15, y: 4.1593418e-16, z: 0.36300042, w: 0.931789}
+      scale: {x: 0.99999976, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_finger_c_02
+      position: {x: -0.25702548, y: 0.000000059604645, z: 0}
+      rotation: {x: 0, y: 0, z: 0.16351122, w: 0.9865415}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_fin_R_finger_c_03
+      position: {x: -0.23444387, y: -0.00000011920929, z: 0}
+      rotation: {x: 1.150331e-15, y: 2.3375653e-16, z: 0.1991381, w: 0.97997147}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_body
+      position: {x: -0, y: 0.000000029802322, z: -0.668362}
+      rotation: {x: 0.5000078, y: 0.4999922, z: -0.5000077, w: 0.4999923}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_middle_eye
+      position: {x: -0.0000000045796726, y: -0.6034223, z: 0.19338846}
+      rotation: {x: 0.5003186, y: 0.49968123, z: 0.50031847, w: 0.49968144}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.99999976}
+      transformModified: 1
+    - name: EVIL_WATCHER_middle_eye 1
+      position: {x: -0.00000004928316, y: -0.000000029802322, z: 0.00000011920929}
+      rotation: {x: 0.5003185, y: 0.49968135, z: 0.5003185, w: -0.49968135}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_A_L_01
+      position: {x: -0, y: -0.7317727, z: 0.3377037}
+      rotation: {x: 0.70496476, y: -0.0821428, z: 0.05317146, w: 0.70246}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_A_L_02
+      position: {x: -0.088007465, y: 0, z: -0.00000008940697}
+      rotation: {x: 0.7571072, y: 0.07395359, z: 0.27466294, w: 0.5881155}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_A_L_03
+      position: {x: -0.08052063, y: 0, z: 0}
+      rotation: {x: -0.07243641, y: 0.14513016, z: 0.06554583, w: 0.9845781}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_jaw_lower
+      position: {x: 0.000000007827743, y: -0.3716872, z: -0.21259063}
+      rotation: {x: 0.64998394, y: 0.2784258, z: 0.64998394, w: 0.27842563}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_A_R_01
+      position: {x: -0, y: -0.7317727, z: 0.3377037}
+      rotation: {x: -0.08214281, y: 0.70496494, z: -0.7024598, w: -0.053171318}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_A_R_02
+      position: {x: -0.08800742, y: 0, z: 0}
+      rotation: {x: -0.757107, y: 0.07395343, z: -0.27466315, w: 0.58811563}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999997}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_A_R_03
+      position: {x: -0.08052057, y: 0.00000008940697, z: 0.00000011920929}
+      rotation: {x: 0.072435945, y: 0.14513026, z: -0.06554489, w: 0.98457813}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_B_L_01
+      position: {x: -0, y: -0.77160555, z: 0.111077785}
+      rotation: {x: 0.709759, y: -0.01670109, z: -0.13966861, w: 0.69025785}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_B_L_02
+      position: {x: -0.083436236, y: 0.0000026226044, z: -0.000000059604645}
+      rotation: {x: -0.11094812, y: -0.17776069, z: -0.15459427, w: 0.96550107}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_B_L_03
+      position: {x: -0.06543061, y: 0.0000007748604, z: 0}
+      rotation: {x: -0.16809697, y: 0.0012665896, z: -0.17449306, w: 0.97020304}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_A_R_01
+      position: {x: -0, y: -0.75111264, z: 0.06236458}
+      rotation: {x: 0.042250462, y: -0.6805782, z: 0.7132824, w: -0.16203833}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_A_R_02
+      position: {x: -0.09581735, y: 0.00000035762787, z: -0.00000011920929}
+      rotation: {x: 0.52508503, y: 0.03846151, z: 0.18314987, w: 0.8302184}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_A_R_03
+      position: {x: -0.0856913, y: -0.0000006854534, z: 0.00000011920929}
+      rotation: {x: 0.38667884, y: 0.22237016, z: 0.09291652, w: 0.8901672}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_A_L_01
+      position: {x: -0, y: -0.75111264, z: 0.06236458}
+      rotation: {x: 0.680578, y: -0.042251144, z: -0.16203783, w: 0.71328264}
+      scale: {x: 1, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_A_L_02
+      position: {x: -0.095817305, y: -0.00000011920929, z: -0.000000059604645}
+      rotation: {x: -0.525085, y: 0.038462285, z: -0.18315083, w: 0.8302182}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_A_L_03
+      position: {x: -0.08569145, y: 0.00000086426735, z: -0.00000011920929}
+      rotation: {x: -0.38667905, y: 0.2223695, z: -0.092916474, w: 0.8901672}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_B_R_01
+      position: {x: -0, y: -0.77160555, z: 0.111077785}
+      rotation: {x: -0.016701745, y: 0.70975894, z: -0.690258, w: 0.13966799}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_B_R_02
+      position: {x: -0.083436266, y: -0.0000023841858, z: 0.00000011920929}
+      rotation: {x: 0.11094847, y: -0.17776026, z: 0.1545956, w: 0.9655009}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999999}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_lower_B_R_03
+      position: {x: -0.06543067, y: -0.0000008940697, z: 0}
+      rotation: {x: 0.16809644, y: 0.001266225, z: 0.17449312, w: 0.97020316}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_D_01
+      position: {x: -0.3414827, y: -0.21583575, z: 0.62262535}
+      rotation: {x: 0.7189247, y: 0.3224515, z: -0.3456701, w: 0.50959253}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_D_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0, y: 0, z: 0.0039563077, w: 0.9999922}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_D_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 8.876293e-16, y: -2.184543e-18, z: -0.002461091, w: 0.99999696}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_D_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0, y: -0, z: -0.010795579, w: 0.99994177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_D_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_D_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_D_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_G_01
+      position: {x: 0.547278, y: 0.17676216, z: 0.28132725}
+      rotation: {x: -0.20238085, y: 0.6753995, z: 0.7021297, w: -0.09945556}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_G_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0, y: 0, z: 0.0039563077, w: 0.9999922}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_G_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 8.876293e-16, y: -2.184543e-18, z: -0.002461091, w: 0.99999696}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_G_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0, y: -0, z: -0.010795579, w: 0.99994177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_G_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_G_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_G_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_F_01
+      position: {x: 0.572, y: -0.17578322, z: 0.27305436}
+      rotation: {x: -0.37487692, y: 0.59955597, z: 0.59955597, w: 0.37487692}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_F_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0.000000033847147, y: -0.000000016650963, z: 0.40043634, w: 0.9163246}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_F_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 0.000000009117304, y: -0.00000002332846, z: 0.11044758, w: 0.993882}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_F_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0.000000089817455, y: -0.0000000017019929, z: -0.0051722503, w: 0.9999867}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_F_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_F_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_F_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_A_01
+      position: {x: -0.5720645, y: -0.17578325, z: 0.27305436}
+      rotation: {x: 0.70474917, y: 0.05769434, z: -0.05769434, w: 0.70474917}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_A_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0, y: 0, z: 0.0039563077, w: 0.9999922}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_A_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 8.876293e-16, y: -2.184543e-18, z: -0.002461091, w: 0.99999696}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_A_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0, y: -0, z: -0.010795579, w: 0.99994177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_A_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_A_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_A_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_J_01
+      position: {x: 0.341, y: -0.21583569, z: 0.62262535}
+      rotation: {x: -0.33939138, y: 0.51904243, z: 0.714371, w: 0.3241645}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_J_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0, y: 0, z: 0.0039563077, w: 0.9999922}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_J_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 8.876293e-16, y: -2.184543e-18, z: -0.002461091, w: 0.99999696}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_J_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0, y: -0, z: -0.010795579, w: 0.99994177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_J_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_J_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_J_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_E_01
+      position: {x: -0.34215102, y: 0.16607934, z: 0.6265454}
+      rotation: {x: 0.564947, y: 0.19935107, z: -0.37406203, w: 0.70793474}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_E_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0, y: 0, z: 0.0039563077, w: 0.9999922}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_E_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 8.876293e-16, y: -2.184543e-18, z: -0.002461091, w: 0.99999696}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_E_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0, y: -0, z: -0.010795579, w: 0.99994177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_E_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_E_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_E_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_B_01
+      position: {x: -0.54929453, y: 0.1776365, z: 0.26859426}
+      rotation: {x: 0.6976784, y: -0.09192839, z: -0.20934959, w: 0.67894536}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_B_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0, y: 0, z: 0.0039563077, w: 0.9999922}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_B_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 8.876293e-16, y: -2.184543e-18, z: -0.002461091, w: 0.99999696}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_B_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0, y: -0, z: -0.010795579, w: 0.99994177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_B_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_B_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_B_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_I_01
+      position: {x: 0.342, y: 0.1660794, z: 0.6265454}
+      rotation: {x: -0.37791067, y: 0.7022582, z: 0.5707444, w: 0.1956214}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_I_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0, y: 0, z: 0.0039563077, w: 0.9999922}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_I_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 8.876293e-16, y: -2.184543e-18, z: -0.002461091, w: 0.99999696}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_I_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0, y: -0, z: -0.010795579, w: 0.99994177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_I_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_I_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_I_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_C_01
+      position: {x: -0.2683905, y: 0.44442338, z: 0.34707594}
+      rotation: {x: 0.51944906, y: -0.15497309, z: -0.46266168, w: 0.7014986}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_C_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0, y: 0, z: 0.0039563077, w: 0.9999922}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_C_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 8.876293e-16, y: -2.184543e-18, z: -0.002461091, w: 0.99999696}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_C_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0, y: -0, z: -0.010795579, w: 0.99994177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_C_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_C_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_C_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_H_01
+      position: {x: 0.27087337, y: 0.4427125, z: 0.3482566}
+      rotation: {x: -0.46381077, y: 0.70278513, z: 0.51666653, w: -0.15501058}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_H_02
+      position: {x: -0.23803866, y: 0, z: 0.0000000016922641}
+      rotation: {x: 0, y: 0, z: 0.0039563077, w: 0.9999922}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_H_03
+      position: {x: -0.17503619, y: 0, z: 0.0000000012451444}
+      rotation: {x: 8.876293e-16, y: -2.184543e-18, z: -0.002461091, w: 0.99999696}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_H_04
+      position: {x: -0.17778814, y: 0, z: 0.0000000012642403}
+      rotation: {x: 0, y: -0, z: -0.010795579, w: 0.99994177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eye_H_05
+      position: {x: -0.16401958, y: -0.00000059604645, z: 4.2632564e-14}
+      rotation: {x: 8.928486e-16, y: 9.491668e-18, z: 0.010630169, w: 0.9999435}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_H_upper
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013718376, y: -0.000000011431964, z: -0.64018387, w: 0.76822174}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_tentacle_eyelid_H_lower
+      position: {x: -0.13578331, y: -0.0010932114, z: 0}
+      rotation: {x: 0.000000013406082, y: 0.000000010765479, z: 0.62613434, w: 0.77971524}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_B_L_01
+      position: {x: 0, y: 1.3060411, z: 0.52615917}
+      rotation: {x: 0.010094049, y: -0.10439711, z: 0.09015353, w: 0.99038965}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_B_L_02
+      position: {x: -0.07523015, y: 0, z: -0.000000029802322}
+      rotation: {x: 0.23378883, y: -0.02142131, z: 0.26695016, w: 0.93467724}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_B_L_03
+      position: {x: -0.07850212, y: -0.00000011920929, z: 0.00000008940697}
+      rotation: {x: -0.090864785, y: -0.07543661, z: 0.107134305, w: 0.98720574}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_B_R_01
+      position: {x: 0, y: 1.3060411, z: 0.52615917}
+      rotation: {x: 0.10439724, y: -0.010093983, z: 0.9903897, w: 0.090152815}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_B_R_02
+      position: {x: -0.07523024, y: 0, z: 0.000000059604645}
+      rotation: {x: -0.23378898, y: -0.021420702, z: -0.2669507, w: 0.93467706}
+      scale: {x: 0.99999994, y: 0.99999976, z: 1.0000002}
+      transformModified: 1
+    - name: EVIL_WATCHER_eyelid_upper_B_R_03
+      position: {x: -0.07850188, y: 0, z: -0.00000035762787}
+      rotation: {x: 0.09086541, y: -0.07543712, z: -0.1071351, w: 0.98720556}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

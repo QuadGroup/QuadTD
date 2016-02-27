@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: f42309b03040aa94bbceee9630612b02
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BN_Gut
+    100002: BN_Back
+    100004: BN_L_ForeTwist1
+    100006: BN_L_Finger4_2
+    100008: BN_L_Finger4_1
+    100010: BN_L_Finger4_0
+    100012: BN_L_Finger3_2
+    100014: BN_L_Finger3_1
+    100016: BN_L_Finger3_0
+    100018: BN_L_Finger2_2
+    100020: BN_L_Finger2_1
+    100022: BN_L_Finger2_0
+    100024: BN_L_Finger1_2
+    100026: BN_L_Finger1_1
+    100028: BN_L_Finger1_0
+    100030: BN_L_Finger0_2
+    100032: BN_L_Finger0_1
+    100034: BN_L_Finger0_0
+    100036: BN_L_Hand
+    100038: BN_L_ForeTwist
+    100040: BN_L_ UpperArm
+    100042: BN_L_Clavicle
+    100044: BN_Right_Eye
+    100046: BN_Left_Eye
+    100048: BN_Jaw
+    100050: BN_Head
+    100054: BN_Neck
+    100056: BN_R_Finger4_2
+    100058: BN_R_Finger4_1
+    100060: BN_R_Finger4_0
+    100062: BN_R_Finger3_2
+    100064: BN_R_Finger3_1
+    100066: BN_R_Finger3_0
+    100068: BN_R_Finger2_2
+    100070: BN_R_Finger2_1
+    100072: BN_R_Finger2_0
+    100074: BN_R_Finger1_2
+    100076: BN_R_Finger1_1
+    100078: BN_R_Finger1_0
+    100080: BN_R_Finger0_2
+    100082: BN_R_Finger0_1
+    100084: BN_R_Finger0_0
+    100086: BN_R_Hand
+    100088: BN_R_ ForeTwist
+    100090: BN_R_ UpperArm
+    100092: BN_R_Clavicle
+    100094: BN_Spine2
+    100096: BN_Spine1
+    100098: BN_Spine
+    100100: BN_Left_Buttock
+    100102: BN_L_Toe0
+    100104: BN_L_Foot
+    100106: BN_L_Calf
+    100108: BN_L_Thigh
+    100110: BN_R_Toe0
+    100112: BN_R_Foot
+    100114: BN_R_Calf
+    100116: BN_R_Thigh
+    100118: BN_Pelvis
+    100120: GroundTransform
+    100122: //RootNode
+    100128: BN_Right_Buttock
+    100130: BN_Right_Shoulder
+    100132: BN_R_ ForeTwist1
+    100134: BN_Left_Shoulder
+    400000: BN_Gut
+    400002: BN_Back
+    400004: BN_L_ForeTwist1
+    400006: BN_L_Finger4_2
+    400008: BN_L_Finger4_1
+    400010: BN_L_Finger4_0
+    400012: BN_L_Finger3_2
+    400014: BN_L_Finger3_1
+    400016: BN_L_Finger3_0
+    400018: BN_L_Finger2_2
+    400020: BN_L_Finger2_1
+    400022: BN_L_Finger2_0
+    400024: BN_L_Finger1_2
+    400026: BN_L_Finger1_1
+    400028: BN_L_Finger1_0
+    400030: BN_L_Finger0_2
+    400032: BN_L_Finger0_1
+    400034: BN_L_Finger0_0
+    400036: BN_L_Hand
+    400038: BN_L_ForeTwist
+    400040: BN_L_ UpperArm
+    400042: BN_L_Clavicle
+    400044: BN_Right_Eye
+    400046: BN_Left_Eye
+    400048: BN_Jaw
+    400050: BN_Head
+    400054: BN_Neck
+    400056: BN_R_Finger4_2
+    400058: BN_R_Finger4_1
+    400060: BN_R_Finger4_0
+    400062: BN_R_Finger3_2
+    400064: BN_R_Finger3_1
+    400066: BN_R_Finger3_0
+    400068: BN_R_Finger2_2
+    400070: BN_R_Finger2_1
+    400072: BN_R_Finger2_0
+    400074: BN_R_Finger1_2
+    400076: BN_R_Finger1_1
+    400078: BN_R_Finger1_0
+    400080: BN_R_Finger0_2
+    400082: BN_R_Finger0_1
+    400084: BN_R_Finger0_0
+    400086: BN_R_Hand
+    400088: BN_R_ ForeTwist
+    400090: BN_R_ UpperArm
+    400092: BN_R_Clavicle
+    400094: BN_Spine2
+    400096: BN_Spine1
+    400098: BN_Spine
+    400100: BN_Left_Buttock
+    400102: BN_L_Toe0
+    400104: BN_L_Foot
+    400106: BN_L_Calf
+    400108: BN_L_Thigh
+    400110: BN_R_Toe0
+    400112: BN_R_Foot
+    400114: BN_R_Calf
+    400116: BN_R_Thigh
+    400118: BN_Pelvis
+    400120: GroundTransform
+    400122: //RootNode
+    400128: BN_Right_Buttock
+    400130: BN_Right_Shoulder
+    400132: BN_R_ ForeTwist1
+    400134: BN_Left_Shoulder
+    4300000: FatZombie_LOD0
+    4300002: FatZombie_LOD1
+    4300004: FatZombie_LOD2
+    7400002: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .125
+    - .00999999978
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

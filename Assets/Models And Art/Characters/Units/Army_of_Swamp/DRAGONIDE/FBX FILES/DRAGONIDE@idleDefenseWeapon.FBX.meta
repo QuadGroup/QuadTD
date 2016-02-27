@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 8b74a791178f1644e8601593f97a1a87
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DRAGONIDE_
+    100004: DRAGONIDE_ Head
+    100006: DRAGONIDE_ L Calf
+    100008: DRAGONIDE_ L Clavicle
+    100010: DRAGONIDE_ L Finger0
+    100012: DRAGONIDE_ L Finger01
+    100014: DRAGONIDE_ L Finger02
+    100016: DRAGONIDE_ L Finger1
+    100018: DRAGONIDE_ L Finger11
+    100020: DRAGONIDE_ L Finger12
+    100022: DRAGONIDE_ L Foot
+    100024: DRAGONIDE_ L Forearm
+    100026: DRAGONIDE_ L Hand
+    100028: DRAGONIDE_ L HorseLink
+    100030: DRAGONIDE_ L Thigh
+    100032: DRAGONIDE_ L Toe0
+    100034: DRAGONIDE_ L Toe01
+    100036: DRAGONIDE_ L Toe02
+    100038: DRAGONIDE_ L UpperArm
+    100040: DRAGONIDE_ Neck
+    100042: DRAGONIDE_ Neck1
+    100044: DRAGONIDE_ Pelvis
+    100046: DRAGONIDE_ Queue de cheval 1
+    100048: DRAGONIDE_ R Calf
+    100050: DRAGONIDE_ R Clavicle
+    100052: DRAGONIDE_ R Finger0
+    100054: DRAGONIDE_ R Finger01
+    100056: DRAGONIDE_ R Finger02
+    100058: DRAGONIDE_ R Finger1
+    100060: DRAGONIDE_ R Finger11
+    100062: DRAGONIDE_ R Finger12
+    100064: DRAGONIDE_ R Foot
+    100066: DRAGONIDE_ R Forearm
+    100068: DRAGONIDE_ R Hand
+    100070: DRAGONIDE_ R HorseLink
+    100072: DRAGONIDE_ R Thigh
+    100074: DRAGONIDE_ R Toe0
+    100076: DRAGONIDE_ R Toe01
+    100078: DRAGONIDE_ R Toe02
+    100080: DRAGONIDE_ R UpperArm
+    100082: DRAGONIDE_ Spine
+    100084: DRAGONIDE_ Spine1
+    100086: DRAGONIDE_ Tail
+    100088: DRAGONIDE_ Tail1
+    100090: DRAGONIDE_ Tail2
+    100092: DRAGONIDE_ Tail3
+    100094: DRAGONIDE_ Tail4
+    100096: DRAGONIDE_ Tail5
+    100098: DRAGONIDE_ Tail6
+    100100: DRAGONIDE_ Tail7
+    400000: //RootNode
+    400002: DRAGONIDE_
+    400004: DRAGONIDE_ Head
+    400006: DRAGONIDE_ L Calf
+    400008: DRAGONIDE_ L Clavicle
+    400010: DRAGONIDE_ L Finger0
+    400012: DRAGONIDE_ L Finger01
+    400014: DRAGONIDE_ L Finger02
+    400016: DRAGONIDE_ L Finger1
+    400018: DRAGONIDE_ L Finger11
+    400020: DRAGONIDE_ L Finger12
+    400022: DRAGONIDE_ L Foot
+    400024: DRAGONIDE_ L Forearm
+    400026: DRAGONIDE_ L Hand
+    400028: DRAGONIDE_ L HorseLink
+    400030: DRAGONIDE_ L Thigh
+    400032: DRAGONIDE_ L Toe0
+    400034: DRAGONIDE_ L Toe01
+    400036: DRAGONIDE_ L Toe02
+    400038: DRAGONIDE_ L UpperArm
+    400040: DRAGONIDE_ Neck
+    400042: DRAGONIDE_ Neck1
+    400044: DRAGONIDE_ Pelvis
+    400046: DRAGONIDE_ Queue de cheval 1
+    400048: DRAGONIDE_ R Calf
+    400050: DRAGONIDE_ R Clavicle
+    400052: DRAGONIDE_ R Finger0
+    400054: DRAGONIDE_ R Finger01
+    400056: DRAGONIDE_ R Finger02
+    400058: DRAGONIDE_ R Finger1
+    400060: DRAGONIDE_ R Finger11
+    400062: DRAGONIDE_ R Finger12
+    400064: DRAGONIDE_ R Foot
+    400066: DRAGONIDE_ R Forearm
+    400068: DRAGONIDE_ R Hand
+    400070: DRAGONIDE_ R HorseLink
+    400072: DRAGONIDE_ R Thigh
+    400074: DRAGONIDE_ R Toe0
+    400076: DRAGONIDE_ R Toe01
+    400078: DRAGONIDE_ R Toe02
+    400080: DRAGONIDE_ R UpperArm
+    400082: DRAGONIDE_ Spine
+    400084: DRAGONIDE_ Spine1
+    400086: DRAGONIDE_ Tail
+    400088: DRAGONIDE_ Tail1
+    400090: DRAGONIDE_ Tail2
+    400092: DRAGONIDE_ Tail3
+    400094: DRAGONIDE_ Tail4
+    400096: DRAGONIDE_ Tail5
+    400098: DRAGONIDE_ Tail6
+    400100: DRAGONIDE_ Tail7
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'DRAGONIDE_ Spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'DRAGONIDE_ Neck1' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'DRAGONIDE_
+      L Clavicle' has translation animation that will be discarded.\n\t'DRAGONIDE_
+      R Clavicle' has translation animation that will be discarded.\n\t'DRAGONIDE_
+      L Thigh' has translation animation that will be discarded.\n\t'DRAGONIDE_ L
+      HorseLink' is inbetween humanoid transforms and has rotation animation that
+      will be discarded.\n\t'DRAGONIDE_ R Thigh' has translation animation that will
+      be discarded.\n\t'DRAGONIDE_ R HorseLink' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: DRAGONIDE_ Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ Neck
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ Queue de cheval 1
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Finger0
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Finger01
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Finger02
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Finger1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Finger11
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ L Finger12
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Finger0
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Finger01
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Finger02
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Finger1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Finger11
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: DRAGONIDE_ R Finger12
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: DRAGONIDE@idleDefenseWeapon(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_
+      position: {x: 0, y: 1.25395381, z: 0}
+      rotation: {x: -.440249383, y: .553335786, z: .553335786, w: .440249383}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ Pelvis
+      position: {x: 0, y: 0, z: .108057022}
+      rotation: {x: -.341769665, y: .575352192, z: .56131357, w: .486919373}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ Spine
+      position: {x: -.215288311, y: -.000296544138, z: .0137627693}
+      rotation: {x: .0824510679, y: .0355820283, z: -.046526596, w: .994872391}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ L Thigh
+      position: {x: .198611677, y: .0525687113, z: .203792021}
+      rotation: {x: -.00891217496, y: .934864283, z: .345107675, w: .0827654377}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: DRAGONIDE_ L Calf
+      position: {x: -.618785799, y: 7.62939436e-08, z: -3.81469718e-08}
+      rotation: {x: .0197755937, y: -.0485610552, z: .457008064, w: .88791573}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ L HorseLink
+      position: {x: -.641652644, y: 0, z: 0}
+      rotation: {x: 1.54600723e-08, y: 8.55783799e-09, z: -.67685765, w: .736113906}
+      scale: {x: .999999762, y: 1, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ L Foot
+      position: {x: -.228572324, y: -3.81469718e-08, z: 0}
+      rotation: {x: .0335775055, y: .197993651, z: .286233515, w: .936878622}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ L Toe0
+      position: {x: -.153507829, y: .165990904, z: -1.90734859e-08}
+      rotation: {x: -8.38516456e-08, y: -4.42047177e-10, z: -.707106829, w: .707106709}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ L Toe01
+      position: {x: -.0819911584, y: 1.19209287e-09, z: -1.90734859e-08}
+      rotation: {x: 3.96520237e-30, y: 2.23221049e-15, z: -1.77635684e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ L Toe02
+      position: {x: -.104240298, y: -1.19209287e-09, z: 3.81469718e-08}
+      rotation: {x: 3.96520237e-30, y: 2.23221049e-15, z: -1.77635684e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ R Thigh
+      position: {x: .231119156, y: -.0140232369, z: -.203791887}
+      rotation: {x: .00298902346, y: .944085002, z: -.310476422, w: -.110900939}
+      scale: {x: .999999821, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ R Calf
+      position: {x: -.618785799, y: -3.81469718e-08, z: 3.81469718e-08}
+      rotation: {x: -.00246509886, y: .00907769706, z: .493509799, w: .869689345}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ R HorseLink
+      position: {x: -.641652644, y: 1.90734859e-08, z: 0}
+      rotation: {x: 5.97129031e-08, y: 2.20609113e-08, z: -.756621182, w: .653853536}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ R Foot
+      position: {x: -.228572339, y: 1.90734859e-08, z: -7.62939436e-08}
+      rotation: {x: -.0516573675, y: -.164133862, z: .311129272, w: .934660494}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ R Toe0
+      position: {x: -.153507814, y: .165990889, z: 0}
+      rotation: {x: 1.52717554e-08, y: -1.52717465e-08, z: -.707106829, w: .707106709}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ R Toe01
+      position: {x: -.0819911733, y: 0, z: 0}
+      rotation: {x: 1.77635684e-15, y: 4.37222398e-15, z: -7.76662998e-30, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ R Toe02
+      position: {x: -.104240283, y: 0, z: 0}
+      rotation: {x: 1.77635684e-15, y: 4.37222398e-15, z: -7.76662998e-30, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ Spine1
+      position: {x: -.379386127, y: -.000321540836, z: 2.11330176e-09}
+      rotation: {x: 6.24088392e-10, y: 3.57098656e-07, z: -.1305262, w: .991444886}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ Neck
+      position: {x: -.442043751, y: -.037865486, z: 1.47879469e-08}
+      rotation: {x: -.000916585093, y: -.00168698991, z: -.102693774, w: .994711161}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ L Clavicle
+      position: {x: .00324981683, y: .0447463989, z: .0915228426}
+      rotation: {x: -.632295012, y: -.0111878281, z: .721247017, w: -.282631963}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ L UpperArm
+      position: {x: -.404326886, y: 7.62939436e-08, z: 1.52587887e-07}
+      rotation: {x: -.461505145, y: .137329921, z: -.060255412, w: .874369919}
+      scale: {x: 1.00000024, y: 1, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ L Forearm
+      position: {x: -.5764153, y: -1.52587887e-07, z: 7.62939436e-08}
+      rotation: {x: -.0237019435, y: .0130987624, z: -.00374398194, w: .999626338}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ L Hand
+      position: {x: -.421169877, y: 0, z: 0}
+      rotation: {x: .0837173983, y: .0675312132, z: .207101002, w: .972388864}
+      scale: {x: .99999994, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: DRAGONIDE_ L Finger0
+      position: {x: -.103699796, y: .00648559537, z: -.106341891}
+      rotation: {x: .791334867, y: -.27808401, z: -.0305024162, w: .543625057}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ L Finger01
+      position: {x: -.0417140201, y: 1.52587887e-07, z: 0}
+      rotation: {x: -1.53423461e-08, y: -1.0562065e-08, z: -.0405743048, w: .999176562}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ L Finger02
+      position: {x: -.0709402487, y: -1.52587887e-07, z: 0}
+      rotation: {x: 3.57792795e-09, y: 1.44652361e-08, z: -.24011068, w: .970745564}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ L Finger1
+      position: {x: -.166630402, y: .000572357152, z: .00786788948}
+      rotation: {x: -.00361867039, y: -.0286136363, z: -.143096283, w: .989288449}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ L Finger11
+      position: {x: -.115923919, y: 1.52587887e-07, z: 7.62939436e-08}
+      rotation: {x: 1.01979772e-07, y: 9.72300313e-07, z: -.031999588, w: .999487936}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ L Finger12
+      position: {x: -.0912371799, y: 7.62939436e-08, z: -7.62939436e-08}
+      rotation: {x: -8.46046122e-10, y: -3.62794617e-09, z: -.227108777, w: .973869383}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ Neck1
+      position: {x: -.140645742, y: -9.85717779e-05, z: 6.43136433e-09}
+      rotation: {x: 2.49035215e-09, y: 6.81714653e-07, z: -.244304627, w: .969698548}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ Head
+      position: {x: -.170155793, y: -.00608215341, z: -6.51954863e-08}
+      rotation: {x: -6.17011109e-09, y: -1.20933271e-06, z: .435299307, w: .90028578}
+      scale: {x: .99999994, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ Queue de cheval 1
+      position: {x: .0283428952, y: .126863167, z: 1.32359355e-06}
+      rotation: {x: -6.18682838e-09, y: 1.98123985e-06, z: -.71779108, w: .696258545}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ R Clavicle
+      position: {x: .00324981683, y: .0447468571, z: -.0915228277}
+      rotation: {x: .638840973, y: .0783638954, z: .731145263, w: -.226203367}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ R UpperArm
+      position: {x: -.404326856, y: -7.62939436e-08, z: 0}
+      rotation: {x: .204238743, y: -.114022084, z: -.100813672, w: .967017174}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ R Forearm
+      position: {x: -.576415479, y: -7.62939436e-08, z: 0}
+      rotation: {x: .00205075694, y: -.00479618553, z: .014479694, w: .999881566}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ R Hand
+      position: {x: -.421170026, y: 0, z: 0}
+      rotation: {x: .733509064, y: -.059675049, z: -.0593166947, w: .67445153}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ R Finger0
+      position: {x: -.10369987, y: .00648559537, z: .10634201}
+      rotation: {x: -.761231959, y: .0999222025, z: .0444833636, w: .639189184}
+      scale: {x: 1, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ R Finger01
+      position: {x: -.0417140946, y: 0, z: 0}
+      rotation: {x: -1.45865897e-08, y: 8.0490512e-09, z: -.0405742973, w: .999176562}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ R Finger02
+      position: {x: -.0709402859, y: -1.52587887e-07, z: -1.52587887e-07}
+      rotation: {x: -1.80431652e-08, y: -1.08873106e-08, z: -.24011068, w: .970745564}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ R Finger1
+      position: {x: -.166630626, y: .000572509773, z: -.00786781311}
+      rotation: {x: .0681001619, y: .0451496467, z: -.0746053457, w: .993860126}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ R Finger11
+      position: {x: -.115923993, y: 0, z: -7.62939436e-08}
+      rotation: {x: .0514427759, y: -.00101988623, z: -.0212443676, w: .998449445}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ R Finger12
+      position: {x: -.0912371799, y: 7.62939436e-08, z: 0}
+      rotation: {x: .0504752472, y: -.0057908548, z: -.682932138, w: .728712857}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: DRAGONIDE_ Tail
+      position: {x: .154266804, y: -.285097033, z: 2.5148287e-05}
+      rotation: {x: .0647550523, y: -.0941688493, z: .865303457, w: .48804605}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ Tail1
+      position: {x: -.335043818, y: -.000266418443, z: 4.66060628e-05}
+      rotation: {x: -.0671249554, y: -.0924924389, z: .170988724, w: .978622615}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ Tail2
+      position: {x: -.358833492, y: -.000274200429, z: 6.14166274e-05}
+      rotation: {x: -.0945076123, y: -.0642565787, z: .171009257, w: .978619039}
+      scale: {x: .999999702, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ Tail3
+      position: {x: -.372883648, y: -.000266342162, z: 4.80270392e-05}
+      rotation: {x: -.0955210328, y: -.0627390668, z: -.155246645, w: .981243134}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: DRAGONIDE_ Tail4
+      position: {x: -.35850513, y: -.000279006956, z: 3.34548931e-05}
+      rotation: {x: -.0714749992, y: -.0891726688, z: -.155226365, w: .981246293}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ Tail5
+      position: {x: -.37222594, y: -.000249862671, z: 1.22070305e-05}
+      rotation: {x: -.0404406935, y: -.106887594, z: -.155206025, w: .981249571}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: DRAGONIDE_ Tail6
+      position: {x: -.330649167, y: -.000227127064, z: -5.87463364e-06}
+      rotation: {x: -.00545248669, y: -.114152037, z: -.155185685, w: .981252789}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: DRAGONIDE_ Tail7
+      position: {x: -.299924314, y: -.000500621798, z: -4.9285889e-05}
+      rotation: {x: .0300688259, y: -.110255502, z: -.155165255, w: .981256008}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

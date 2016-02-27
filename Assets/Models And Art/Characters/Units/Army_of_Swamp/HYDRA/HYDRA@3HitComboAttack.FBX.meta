@@ -1,0 +1,995 @@
+fileFormatVersion: 2
+guid: 35b50bac4ff43c8489d083dc668433fb
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Factice001
+    100002: Factice002
+    100004: //RootNode
+    100006: HYDRA_
+    100008: HYDRA_ Head
+    100010: HYDRA_ Head_L
+    100012: HYDRA_ Head_R
+    100014: HYDRA_ L Calf
+    100016: HYDRA_ L Clavicle
+    100018: HYDRA_ L Finger0
+    100020: HYDRA_ L Finger01
+    100022: HYDRA_ L Finger1
+    100024: HYDRA_ L Finger11
+    100026: HYDRA_ L Finger2
+    100028: HYDRA_ L Finger21
+    100030: HYDRA_ L Finger3
+    100032: HYDRA_ L Finger31
+    100034: HYDRA_ L Foot
+    100036: HYDRA_ L Forearm
+    100038: HYDRA_ L Hand
+    100040: HYDRA_ L HorseLink
+    100042: HYDRA_ L Thigh
+    100044: HYDRA_ L Toe0
+    100046: HYDRA_ L Toe01
+    100048: HYDRA_ L Toe1
+    100050: HYDRA_ L Toe11
+    100052: HYDRA_ L Toe2
+    100054: HYDRA_ L Toe21
+    100056: HYDRA_ L UpperArm
+    100058: HYDRA_ Neck
+    100060: HYDRA_ Neck1
+    100062: HYDRA_ Neck2
+    100064: HYDRA_ Neck3
+    100066: HYDRA_ Neck4
+    100068: HYDRA_ Neck5
+    100070: HYDRA_ Neck6
+    100072: HYDRA_ Neck_L
+    100074: HYDRA_ Neck_L1
+    100076: HYDRA_ Neck_L2
+    100078: HYDRA_ Neck_L3
+    100080: HYDRA_ Neck_L4
+    100082: HYDRA_ Neck_L5
+    100084: HYDRA_ Neck_L6
+    100086: HYDRA_ Neck_R
+    100088: HYDRA_ Neck_R1
+    100090: HYDRA_ Neck_R2
+    100092: HYDRA_ Neck_R3
+    100094: HYDRA_ Neck_R4
+    100096: HYDRA_ Neck_R5
+    100098: HYDRA_ Neck_R6
+    100100: HYDRA_ Pelvis
+    100102: HYDRA_ Queue de cheval 1
+    100104: HYDRA_ R Calf
+    100106: HYDRA_ R Clavicle
+    100108: HYDRA_ R Finger0
+    100110: HYDRA_ R Finger01
+    100112: HYDRA_ R Finger1
+    100114: HYDRA_ R Finger11
+    100116: HYDRA_ R Finger2
+    100118: HYDRA_ R Finger21
+    100120: HYDRA_ R Finger3
+    100122: HYDRA_ R Finger31
+    100124: HYDRA_ R Foot
+    100126: HYDRA_ R Forearm
+    100128: HYDRA_ R Hand
+    100130: HYDRA_ R HorseLink
+    100132: HYDRA_ R Thigh
+    100134: HYDRA_ R Toe0
+    100136: HYDRA_ R Toe01
+    100138: HYDRA_ R Toe1
+    100140: HYDRA_ R Toe11
+    100142: HYDRA_ R Toe2
+    100144: HYDRA_ R Toe21
+    100146: HYDRA_ R UpperArm
+    100148: HYDRA_ Spine
+    100150: HYDRA_ Spine1
+    100152: HYDRA_ Tail
+    100154: HYDRA_ Tail1
+    100156: HYDRA_ Tail2
+    100158: HYDRA_ Tail3
+    100160: HYDRA_ Tail4
+    100162: HYDRA_ Tail5
+    100164: HYDRA_ Tail6
+    100166: HYDRA_ Tail7
+    100168: HYDRA_ Tail8
+    100170: HYDRA_Jaw_L
+    100172: HYDRA_Jaw_R
+    400000: Factice001
+    400002: Factice002
+    400004: //RootNode
+    400006: HYDRA_
+    400008: HYDRA_ Head
+    400010: HYDRA_ Head_L
+    400012: HYDRA_ Head_R
+    400014: HYDRA_ L Calf
+    400016: HYDRA_ L Clavicle
+    400018: HYDRA_ L Finger0
+    400020: HYDRA_ L Finger01
+    400022: HYDRA_ L Finger1
+    400024: HYDRA_ L Finger11
+    400026: HYDRA_ L Finger2
+    400028: HYDRA_ L Finger21
+    400030: HYDRA_ L Finger3
+    400032: HYDRA_ L Finger31
+    400034: HYDRA_ L Foot
+    400036: HYDRA_ L Forearm
+    400038: HYDRA_ L Hand
+    400040: HYDRA_ L HorseLink
+    400042: HYDRA_ L Thigh
+    400044: HYDRA_ L Toe0
+    400046: HYDRA_ L Toe01
+    400048: HYDRA_ L Toe1
+    400050: HYDRA_ L Toe11
+    400052: HYDRA_ L Toe2
+    400054: HYDRA_ L Toe21
+    400056: HYDRA_ L UpperArm
+    400058: HYDRA_ Neck
+    400060: HYDRA_ Neck1
+    400062: HYDRA_ Neck2
+    400064: HYDRA_ Neck3
+    400066: HYDRA_ Neck4
+    400068: HYDRA_ Neck5
+    400070: HYDRA_ Neck6
+    400072: HYDRA_ Neck_L
+    400074: HYDRA_ Neck_L1
+    400076: HYDRA_ Neck_L2
+    400078: HYDRA_ Neck_L3
+    400080: HYDRA_ Neck_L4
+    400082: HYDRA_ Neck_L5
+    400084: HYDRA_ Neck_L6
+    400086: HYDRA_ Neck_R
+    400088: HYDRA_ Neck_R1
+    400090: HYDRA_ Neck_R2
+    400092: HYDRA_ Neck_R3
+    400094: HYDRA_ Neck_R4
+    400096: HYDRA_ Neck_R5
+    400098: HYDRA_ Neck_R6
+    400100: HYDRA_ Pelvis
+    400102: HYDRA_ Queue de cheval 1
+    400104: HYDRA_ R Calf
+    400106: HYDRA_ R Clavicle
+    400108: HYDRA_ R Finger0
+    400110: HYDRA_ R Finger01
+    400112: HYDRA_ R Finger1
+    400114: HYDRA_ R Finger11
+    400116: HYDRA_ R Finger2
+    400118: HYDRA_ R Finger21
+    400120: HYDRA_ R Finger3
+    400122: HYDRA_ R Finger31
+    400124: HYDRA_ R Foot
+    400126: HYDRA_ R Forearm
+    400128: HYDRA_ R Hand
+    400130: HYDRA_ R HorseLink
+    400132: HYDRA_ R Thigh
+    400134: HYDRA_ R Toe0
+    400136: HYDRA_ R Toe01
+    400138: HYDRA_ R Toe1
+    400140: HYDRA_ R Toe11
+    400142: HYDRA_ R Toe2
+    400144: HYDRA_ R Toe21
+    400146: HYDRA_ R UpperArm
+    400148: HYDRA_ Spine
+    400150: HYDRA_ Spine1
+    400152: HYDRA_ Tail
+    400154: HYDRA_ Tail1
+    400156: HYDRA_ Tail2
+    400158: HYDRA_ Tail3
+    400160: HYDRA_ Tail4
+    400162: HYDRA_ Tail5
+    400164: HYDRA_ Tail6
+    400166: HYDRA_ Tail7
+    400168: HYDRA_ Tail8
+    400170: HYDRA_Jaw_L
+    400172: HYDRA_Jaw_R
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'HYDRA_ Neck1' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'HYDRA_ Neck2' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'HYDRA_
+      L Clavicle' has translation animation that will be discarded.\n\t'HYDRA_ R Clavicle'
+      has translation animation that will be discarded.\n\t'HYDRA_ L Thigh' has translation
+      animation that will be discarded.\n\t'HYDRA_ L HorseLink' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'HYDRA_ R Thigh'
+      has translation animation that will be discarded.\n\t'HYDRA_ R HorseLink' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: HYDRA_ Spine
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ Neck
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ Neck3
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ Neck4
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Toe2
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Toe2
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ Neck5
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Finger0
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Finger01
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Finger2
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Finger21
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Finger3
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ L Finger31
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Finger0
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Finger01
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Finger2
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Finger21
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Finger3
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HYDRA_ R Finger31
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: HYDRA@3HitComboAttack(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_
+      position: {x: 0, y: 2.09711885, z: -1.51497769}
+      rotation: {x: -.00410012202, y: .00410193903, z: .707094908, w: .707094908}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Pelvis
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.499999672, y: .500000358, z: .499999672, w: .500000358}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Spine
+      position: {x: -1.51212955, y: -.62544471, z: 3.83384895e-06}
+      rotation: {x: 0, y: 5.96046306e-08, z: .729148686, w: .684355319}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Thigh
+      position: {x: .812692881, y: -.0508018471, z: 1.18864846}
+      rotation: {x: .0706752613, y: -.762619197, z: -.642140269, w: -.0327556096}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Calf
+      position: {x: -1.19583833, y: -7.62939436e-08, z: 0}
+      rotation: {x: .0399010405, y: -.0998628289, z: .382164747, w: .917815566}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L HorseLink
+      position: {x: -.891829967, y: 7.62939436e-08, z: 0}
+      rotation: {x: -6.37988062e-09, y: -5.13586365e-08, z: -.606509864, w: .795075953}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Foot
+      position: {x: -.363490433, y: -1.14440915e-07, z: 0}
+      rotation: {x: -.0130381864, y: .629839063, z: -.161890402, w: .759555399}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Toe0
+      position: {x: -.225558519, y: .24293232, z: -.180786133}
+      rotation: {x: -.0995747969, y: -.0995762199, z: -.7000615, w: .700059533}
+      scale: {x: .99999994, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ L Toe01
+      position: {x: -.162030414, y: 0, z: 1.52587887e-07}
+      rotation: {x: 8.37884826e-18, y: -3.59868828e-08, z: 2.32830616e-10, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Toe1
+      position: {x: -.225383759, y: .283171505, z: .0090531921}
+      rotation: {x: 8.71841088e-09, y: -1.68176325e-06, z: -.707107663, w: .707105875}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ L Toe11
+      position: {x: -.137200847, y: 2.38418574e-09, z: 0}
+      rotation: {x: 4.65661287e-10, y: 2.03726835e-09, z: 2.32830671e-10, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Toe2
+      position: {x: -.225870818, y: .248058945, z: .187130734}
+      rotation: {x: .142501995, y: .142499998, z: -.692599773, w: .692598403}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ L Toe21
+      position: {x: -.146033779, y: 0, z: -1.52587887e-07}
+      rotation: {x: -8.19589162e-18, y: 1.76005432e-08, z: 4.65661343e-10, w: 1}
+      scale: {x: .99999994, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: HYDRA_ R Thigh
+      position: {x: .812692881, y: -.0507952869, z: -1.18864906}
+      rotation: {x: .0706761107, y: -.762620091, z: .642139077, w: .032756377}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ R Calf
+      position: {x: -1.19583833, y: -7.62939436e-08, z: 0}
+      rotation: {x: -.0399005264, y: .0998627022, z: .382165283, w: .917815447}
+      scale: {x: .999999821, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ R HorseLink
+      position: {x: -.891830027, y: 3.81469718e-08, z: -1.52587887e-07}
+      rotation: {x: 1.37086769e-08, y: 3.63971289e-08, z: -.606511831, w: .795074463}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ R Foot
+      position: {x: -.363490254, y: 7.62939436e-08, z: -1.52587887e-07}
+      rotation: {x: .0130410781, y: -.629839718, z: -.161887527, w: .75955534}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ R Toe0
+      position: {x: -.225558504, y: .242932528, z: .180785969}
+      rotation: {x: .0995742977, y: .0995743126, z: -.700060666, w: .700060785}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ R Toe01
+      position: {x: -.162030026, y: 0, z: 1.52587887e-07}
+      rotation: {x: 4.65661343e-10, y: 3.3985998e-08, z: 2.3283063e-10, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ R Toe1
+      position: {x: -.225383759, y: .283171475, z: -.00905303936}
+      rotation: {x: 6.65721629e-08, y: 5.47183703e-08, z: -.707106709, w: .707106829}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ R Toe11
+      position: {x: -.137200996, y: 4.76837148e-09, z: 1.52587887e-07}
+      rotation: {x: -9.31322686e-10, y: -3.58704688e-09, z: -3.34069815e-18, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ R Toe2
+      position: {x: -.225870818, y: .248058766, z: -.187130421}
+      rotation: {x: -.142501861, y: -.142501861, z: -.69259882, w: .692598939}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ R Toe21
+      position: {x: -.146033779, y: 0, z: 1.52587887e-07}
+      rotation: {x: 4.65661287e-10, y: -1.10230758e-08, z: 5.13302007e-18, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ Spine1
+      position: {x: -.955521345, y: -.00104721065, z: -2.90543523e-09}
+      rotation: {x: 4.17406283e-14, y: -8.89538896e-08, z: .0320716687, w: .999485612}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck
+      position: {x: -1.26051116, y: -.0944357291, z: -1.86761028e-07}
+      rotation: {x: -1.24166384e-13, y: -1.8859221e-07, z: .0679954588, w: .997685671}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Factice001
+      position: {x: .085421063, y: -.0361314379, z: .518995821}
+      rotation: {x: .588910282, y: .391387194, z: -.588910282, w: .391389102}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck_L
+      position: {x: .000153541565, y: 1.52587887e-07, z: 0}
+      rotation: {x: -.0614370592, y: .0975969508, z: .533266485, w: .83804971}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck_L1
+      position: {x: -1.03181446, y: -1.24584034e-07, z: 4.57763662e-07}
+      rotation: {x: 1.79521789e-14, y: -.0140602877, z: 1.30009406e-16, w: .999901175}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ Neck_L2
+      position: {x: -.808615386, y: 4.91947851e-08, z: 1.52587887e-07}
+      rotation: {x: 1.4377079e-17, y: -.117397748, z: 1.21617851e-16, w: .993085027}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck_L3
+      position: {x: -.692391038, y: -8.03680464e-08, z: -1.52587887e-07}
+      rotation: {x: -3.27895009e-15, y: -.136583567, z: -4.82885521e-14, w: .9906286}
+      scale: {x: .999999881, y: 1, z: .999999881}
+      transformModified: 1
+    - name: HYDRA_ Neck_L4
+      position: {x: -.628804922, y: -7.50771108e-08, z: -1.52587887e-07}
+      rotation: {x: 2.45934271e-14, y: .112648569, z: -2.066314e-14, w: .99363488}
+      scale: {x: .999999881, y: 1, z: .999999881}
+      transformModified: 1
+    - name: HYDRA_ Neck_L5
+      position: {x: -.570297837, y: -6.91735451e-08, z: 0}
+      rotation: {x: 0, y: .132684141, z: -0, w: .991158366}
+      scale: {x: 1.00000036, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: HYDRA_ Neck_L6
+      position: {x: -.525259972, y: -6.37443733e-08, z: 0}
+      rotation: {x: 4.5771964e-10, y: .133623064, z: -6.17153481e-11, w: .991032243}
+      scale: {x: .999999762, y: 1, z: .999999762}
+      transformModified: 1
+    - name: HYDRA_ Head_L
+      position: {x: -.620057344, y: -1.45519149e-13, z: 0}
+      rotation: {x: .682451069, y: -.185096011, z: .185096979, w: .682450831}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_Jaw_L
+      position: {x: -.124816895, y: -.0495013408, z: -.00476287818}
+      rotation: {x: -4.53615894e-06, y: -2.4176277e-08, z: .0578803271, w: .99832356}
+      scale: {x: 1.00000036, y: 1, z: 1}
+      transformModified: 1
+    - name: Factice002
+      position: {x: .0854224414, y: -.0361291505, z: -.519004047}
+      rotation: {x: .588910282, y: .391387194, z: -.588910282, w: .391389102}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck_R
+      position: {x: 3.81469718e-08, y: -1.52587887e-07, z: -3.05175774e-07}
+      rotation: {x: -.0934185311, y: .0587822795, z: .838521957, w: .533571601}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck_R1
+      position: {x: -1.03181446, y: -1.52587887e-07, z: 3.05175774e-07}
+      rotation: {x: 0, y: -.0140602877, z: -0, w: .999901175}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ Neck_R2
+      position: {x: -.808615088, y: 3.05175774e-07, z: 3.05175774e-07}
+      rotation: {x: 0, y: -.117397532, z: -0, w: .993085027}
+      scale: {x: 1.00000036, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ Neck_R3
+      position: {x: -.692391634, y: -3.05175774e-07, z: -6.10351549e-07}
+      rotation: {x: 3.25641061e-08, y: -.13658376, z: 2.36184249e-07, w: .990628541}
+      scale: {x: .999999881, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ Neck_R4
+      position: {x: -.628804624, y: 0, z: -6.10351549e-07}
+      rotation: {x: 0, y: .11264877, z: -0, w: .99363488}
+      scale: {x: 1, y: 1.00000012, z: .999999702}
+      transformModified: 1
+    - name: HYDRA_ Neck_R5
+      position: {x: -.570298016, y: 3.05175774e-07, z: 9.15527323e-07}
+      rotation: {x: 3.16343431e-08, y: .132684037, z: -2.36310584e-07, w: .991158366}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck_R6
+      position: {x: -.525260746, y: 6.10351549e-07, z: -6.10351549e-07}
+      rotation: {x: 0, y: .133623078, z: -0, w: .991032243}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ Head_R
+      position: {x: -.620056748, y: 0, z: -1.52587882e-06}
+      rotation: {x: -.684854329, y: -.175996006, z: -.175996676, w: .68485409}
+      scale: {x: .999999702, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: HYDRA_Jaw_R
+      position: {x: -.124816127, y: .0495001227, z: -.00476379367}
+      rotation: {x: 4.76997866e-06, y: -2.03757565e-07, z: -.0925166085, w: .995711148}
+      scale: {x: 1.00000024, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Clavicle
+      position: {x: .276143342, y: -.181105644, z: .607488751}
+      rotation: {x: -.627063334, y: .18646872, z: .756258011, w: .00974386744}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ L UpperArm
+      position: {x: -.954956055, y: 1.52587887e-07, z: 0}
+      rotation: {x: -.380036533, y: .112954557, z: -.0716812536, w: .915246129}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ L Forearm
+      position: {x: -1.190413, y: -7.62939436e-08, z: -1.52587887e-07}
+      rotation: {x: -.00774776796, y: .0161857661, z: -.00136746699, w: .999838114}
+      scale: {x: .99999994, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ L Hand
+      position: {x: -.881712496, y: 7.62939436e-08, z: 0}
+      rotation: {x: -.318672091, y: -.0157868434, z: .125586063, w: .939375877}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ L Finger0
+      position: {x: -.239804074, y: -.00370773301, z: -.193902895}
+      rotation: {x: .571894944, y: -.323777825, z: .246724054, w: .712201834}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Finger01
+      position: {x: -.154692844, y: 0, z: -7.62939436e-08}
+      rotation: {x: 4.9209536e-08, y: 2.15638973e-08, z: -.174108133, w: .984726548}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ L Finger1
+      position: {x: -.550674856, y: -.00587509153, z: -.179676354}
+      rotation: {x: .0320792496, y: -.266875267, z: .0606236979, w: .96128732}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Finger11
+      position: {x: -.13877967, y: -9.53674295e-09, z: 0}
+      rotation: {x: 1.70505745e-11, y: -6.42464748e-09, z: .00265392219, w: .999996483}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Finger2
+      position: {x: -.573953211, y: -.00946643762, z: -.0104165645}
+      rotation: {x: .0254318267, y: -.268500835, z: .0336512327, w: .962355554}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Finger21
+      position: {x: -.139376983, y: 9.53674295e-09, z: 0}
+      rotation: {x: -9.4773267e-10, y: 6.18207041e-09, z: .00265392149, w: .999996483}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Finger3
+      position: {x: -.558206797, y: -.00482158642, z: .177379444}
+      rotation: {x: -.00360758859, y: -.276376963, z: .0168018918, w: .960895658}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ L Finger31
+      position: {x: -.137055814, y: -1.90734859e-08, z: 0}
+      rotation: {x: -4.96072627e-10, y: 1.14583569e-08, z: .00265392102, w: .999996483}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ Neck1
+      position: {x: -1.03195643, y: -.000642089813, z: -1.78057236e-09}
+      rotation: {x: -1.54837135e-13, y: 1.02722005e-07, z: -.0370356366, w: .999313951}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck2
+      position: {x: -.808735013, y: -.000529632554, z: -1.46974344e-09}
+      rotation: {x: 2.50482713e-13, y: 3.88796252e-07, z: -.140177444, w: .990126371}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck3
+      position: {x: -.692497551, y: -.000474853499, z: -1.31665723e-09}
+      rotation: {x: -1.23077817e-13, y: 4.41780855e-07, z: -.159280673, w: .9872334}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck4
+      position: {x: -.628612041, y: -.000432739238, z: -1.200824e-09}
+      rotation: {x: -1.12877427e-13, y: -4.25743991e-07, z: .153498754, w: .988148868}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck5
+      position: {x: -.570120513, y: -.000393371563, z: -1.09139364e-09}
+      rotation: {x: 5.85641561e-14, y: -4.807236e-07, z: .173321113, w: .984865367}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Neck6
+      position: {x: -.525050044, y: -.000463409408, z: -1.28464306e-09}
+      rotation: {x: 5.39735967e-14, y: -4.84871407e-07, z: .174816638, w: .984601021}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Head
+      position: {x: -.620056748, y: 1.52587887e-07, z: -1.16415319e-12}
+      rotation: {x: 8.47330019e-14, y: -3.16367277e-07, z: .114064477, w: .993473351}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Queue de cheval 1
+      position: {x: -.0248645023, y: .0951415971, z: -8.81694717e-08}
+      rotation: {x: 8.48082726e-13, y: 1.37855386e-06, z: -.497027427, w: .867734849}
+      scale: {x: .999999821, y: .999999881, z: 1}
+      transformModified: 1
+    - name: HYDRA_ R Clavicle
+      position: {x: .276143491, y: -.181102291, z: -.607489944}
+      rotation: {x: .627063811, y: -.186470598, z: .756257057, w: .00974186789}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ R UpperArm
+      position: {x: -.954955757, y: 1.52587887e-07, z: -7.62939436e-08}
+      rotation: {x: .380037427, y: -.112954855, z: -.0716807693, w: .915245712}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ R Forearm
+      position: {x: -1.19041324, y: 0, z: 0}
+      rotation: {x: .00774794631, y: -.01618593, z: -.00136761472, w: .999838114}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ R Hand
+      position: {x: -.881712794, y: 0, z: 1.52587887e-07}
+      rotation: {x: .318673611, y: .0157859102, z: .125582039, w: .939375877}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ R Finger0
+      position: {x: -.239803925, y: -.00370773301, z: .193903193}
+      rotation: {x: -.571894348, y: .323780745, z: .246725321, w: .712200582}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ R Finger01
+      position: {x: -.154692993, y: 1.52587887e-07, z: -7.62939436e-08}
+      rotation: {x: 1.72679826e-08, y: 1.20791555e-08, z: -.174108148, w: .984726548}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ R Finger1
+      position: {x: -.550675035, y: -.00587509153, z: .179676354}
+      rotation: {x: -.0320795551, y: .266876489, z: .0606230497, w: .961287022}
+      scale: {x: .999999881, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: HYDRA_ R Finger11
+      position: {x: -.138779566, y: 9.53674295e-09, z: -1.52587887e-07}
+      rotation: {x: -4.84979112e-10, y: 7.27833394e-09, z: .00265392149, w: .999996483}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ R Finger2
+      position: {x: -.57395339, y: -.00946647581, z: .01041687}
+      rotation: {x: -.0254323389, y: .268501312, z: .0336503834, w: .962355435}
+      scale: {x: .999999881, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ R Finger21
+      position: {x: -.139376983, y: 0, z: 0}
+      rotation: {x: 9.33061961e-10, y: -6.54181154e-10, z: .00265392149, w: .999996483}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HYDRA_ R Finger3
+      position: {x: -.558206499, y: -.00482158642, z: -.177378997}
+      rotation: {x: .00360448565, y: .276378632, z: .0167991277, w: .9608953}
+      scale: {x: .99999994, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ R Finger31
+      position: {x: -.137055814, y: 0, z: 0}
+      rotation: {x: 3.54335181e-12, y: -1.33513367e-09, z: .00265392126, w: .999996483}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Tail
+      position: {x: 1.37167525, y: .0328900144, z: -2.02260344e-05}
+      rotation: {x: -.0623911843, y: .015848102, z: .98274827, w: -.173384041}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Tail1
+      position: {x: -.477694005, y: -.000582275388, z: -4.28390485e-05}
+      rotation: {x: .031457305, y: .0561633445, z: .0868657082, w: .994138062}
+      scale: {x: .99999994, y: .999999881, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Tail2
+      position: {x: -.743918717, y: -.000596313446, z: -5.22613518e-05}
+      rotation: {x: .0398480482, y: .0505571552, z: .0695918649, w: .995496452}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ Tail3
+      position: {x: -.758530498, y: -.000580749474, z: 5.57708736e-05}
+      rotation: {x: -.0549196973, y: -.0746341273, z: -.102301195, w: .990428209}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: HYDRA_ Tail4
+      position: {x: -.750469327, y: -.00058044435, z: 3.41415398e-05}
+      rotation: {x: -.0380458049, y: -.084492296, z: -.107702985, w: .989855349}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: HYDRA_ Tail5
+      position: {x: -.748066366, y: -.000592346187, z: 1.2435913e-05}
+      rotation: {x: -.0196157005, y: -.0905629247, z: -.100809112, w: .990581214}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Tail6
+      position: {x: -.760451317, y: -.000596313446, z: 6.40869121e-06}
+      rotation: {x: -.00791236386, y: -.0923247412, z: -.0262786429, w: .995350659}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Tail7
+      position: {x: -.74987179, y: -.00059265137, z: 3.05175774e-07}
+      rotation: {x: -.00267575169, y: -.0926245376, z: -.030082535, w: .995242953}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: HYDRA_ Tail8
+      position: {x: -.745777547, y: -.000683116901, z: -7.93457002e-06}
+      rotation: {x: .00292131468, y: -.0926170349, z: -.0300563518, w: .995243788}
+      scale: {x: 1.00000024, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

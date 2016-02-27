@@ -1,0 +1,14 @@
+walk	000	045
+run	047	077
+stand	079	124
+idle	126	276
+roar	278	398
+attack1	400	430
+attack2	432	462
+attack3	464	494
+whip tail	496	556
+hit1	558	588
+hit2	590	620
+death	622	676
+
+Triangles: 5694
